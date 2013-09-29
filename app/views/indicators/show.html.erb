@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Short:</strong>
+  <%= @indicator.short %>
+</p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @indicator.title %>
+</p>
+
+<p>
+  <strong>Matrix:</strong>
+  <%= @indicator.matrix %>
+</p>
+
+<p>
+  <strong>Max points:</strong>
+  <%= @indicator.max_points %>
+</p>
+
+<%= link_to 'Edit', edit_indicator_path(@indicator) %> |
+<%= link_to 'Back', indicators_path %>

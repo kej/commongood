@@ -1,0 +1,33 @@
+<h1>Listing indicators</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Short</th>
+      <th>Title</th>
+      <th>Matrix</th>
+      <th>Max points</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @indicators.each do |indicator| %>
+      <tr>
+        <td><%= indicator.short %></td>
+        <td><%= indicator.title %></td>
+        <td><%= indicator.matrix %></td>
+        <td><%= indicator.max_points %></td>
+        <td><%= link_to 'Show', indicator %></td>
+        <td><%= link_to 'Edit', edit_indicator_path(indicator) %></td>
+        <td><%= link_to 'Destroy', indicator, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Indicator', new_indicator_path %>

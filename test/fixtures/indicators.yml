@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  short: MyString
+  title: MyString
+  matrix_id: 
+  max_points: 1
+
+two:
+  short: MyString
+  title: MyString
+  matrix_id: 
+  max_points: 1

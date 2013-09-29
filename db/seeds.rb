@@ -5,3 +5,14 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+
+# Indicators
+
+Indicator.delete_all
+Matrix.delete_all
+
+seed_file = File.join(Rails.root, 'db', 'seed.yml')
+config = YAML::load_file(seed_file)
+Indicator.create(config["indicators"])
+Matrix.create(config["matrices"])

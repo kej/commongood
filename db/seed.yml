@@ -1,0 +1,122 @@
+indicators:
+  -  id: 1
+     short: 'A1'
+     title: 'Ethisches Beschaffungsmanagement'
+     matrix_id: '1'
+     max_points: 100
+
+  -  id: 2
+     short: B1
+     title: 'Ethisches Finanzmanagement'
+     matrix_id: 1
+     max_points: 20
+
+  -  id: 3
+     short: C1
+     title: 'Arbeitsplatzqualität'
+     matrix_id: 1
+     max_points: 60
+
+  -  id: 4
+     short: C2
+     title: ' Gerechte Verteilung des Arbeitsvolumens'
+     matrix_id: 1
+     max_points: 40
+
+  -  id: 5
+     short: C3
+     title: ' Fo/örderung ökologisches Verhalten der MitarbeiterInnen'
+     matrix_id: 1
+     max_points: 40
+
+  -  id: 6
+     short: C4
+     title: 'Gerechte Verteilung des Einkommens'
+     matrix_id: 1
+     max_points: 60
+
+  -  id: 7
+     short: C5
+     title: 'Gleichstellung / Inklusion Benachteiligter'
+     matrix_id: 1
+     max_points: 40
+
+  -  id: 8
+     short: C6
+     title: 'Innerbetriebliche Transparenz und Mitbestimmung'
+     matrix_id: 1
+     max_points: 100
+
+  -  id: 9
+     short: D1
+     title: 'Ethisches Verkaufen'
+     matrix_id: 1
+     max_points: 40
+
+  -  id: 10
+     short: D2
+     title: 'Solidarität mit Mitunternehmen'
+     matrix_id: 1
+     max_points: 80
+
+  -  id: 11
+     short: D3
+     title: 'Ökologische Gestaltung der Produkte und Dienstleistungen'
+     matrix_id: 1
+     max_points: 60
+
+  -  id: 12
+     short: D4
+     title: 'Soziale Gestaltung der Produkte und Dienstleistungen'
+     matrix_id: 1
+     max_points: 20
+
+  -  id: 13
+     short: D5
+     title: 'Erhöhung der sozialen und ökologischen Branchenstandards'
+     matrix_id: 1
+     max_points: 20
+
+  -  id: 14
+     short: E1
+     title: 'Gesellschaftliche Wirkung'
+     matrix_id: 1
+     max_points: 100
+
+  -  id: 15
+     short: E2
+     title: 'Beitrag zum Gemeinwesen'
+     matrix_id: 1
+     max_points: 40
+
+  -  id: 16
+     short: E3
+     title: 'Reduktion ökologische Auswirkungen'
+     matrix_id: 1
+     max_points: 100
+
+  -  id: 17
+     short: E4
+     title: 'Minimierung der Gewinnausschüttung an Externe'
+     matrix_id: 1
+     max_points: 40
+
+  -  id: 18
+     short: E5
+     title: 'Gesellschaftliche Transparenz und Mitbestimmung'
+     matrix_id: 1
+     max_points: 40
+
+  -  id: 19
+     short: A1
+     title: Ethisches Beschaffungsmanagement
+     matrix_id: 2
+     max_points: 90
+
+
+matrices:
+  -  id: 1
+     title: 'GEMEINWOHL-MATRIX 3.0 2011'
+
+  -  id: 2
+     title: 'GEMEINWOHL-MATRIX 4.0 2012' 

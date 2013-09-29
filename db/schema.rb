@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20130929173330) do
+ActiveRecord::Schema.define(version: 20130929201208) do
 
   create_table "indicators", force: true do |t|
     t.string   "short"
@@ -23,5 +23,11 @@ ActiveRecord::Schema.define(version: 20130929173330) do
   end
 
   add_index "indicators", ["matrix_id"], name: "index_indicators_on_matrix_id"
+
+  create_table "matrices", force: true do |t|
+    t.string   "title"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
 end

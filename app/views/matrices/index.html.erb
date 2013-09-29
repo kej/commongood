@@ -1,0 +1,27 @@
+<h1>Listing matrices</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @matrices.each do |matrix| %>
+      <tr>
+        <td><%= matrix.title %></td>
+        <td><%= link_to 'Show', matrix %></td>
+        <td><%= link_to 'Edit', edit_matrix_path(matrix) %></td>
+        <td><%= link_to 'Destroy', matrix, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Matrix', new_matrix_path %>

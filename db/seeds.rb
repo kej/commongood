@@ -11,8 +11,12 @@
 
 Indicator.delete_all
 Matrix.delete_all
+Value.delete_all
+IndicatorValue.delete_all
 
 seed_file = File.join(Rails.root, 'db', 'seed.yml')
 config = YAML::load_file(seed_file)
 Indicator.create(config["indicators"])
 Matrix.create(config["matrices"])
+Value.create(config["values"])
+IndicatorValue.create(config["indicator_values"])

@@ -1,0 +1,25 @@
+<%= form_for(@indicator_value) do |f| %>
+  <% if @indicator_value.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@indicator_value.errors.count, "error") %> prohibited this indicator_value from being saved:</h2>
+
+      <ul>
+      <% @indicator_value.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :indicator %><br>
+    <%= f.text_field :indicator %>
+  </div>
+  <div class="field">
+    <%= f.label :value %><br>
+    <%= f.text_field :value %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

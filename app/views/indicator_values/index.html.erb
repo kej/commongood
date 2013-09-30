@@ -1,0 +1,29 @@
+<h1>Listing indicator_values</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Indicator</th>
+      <th>Value</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @indicator_values.each do |indicator_value| %>
+      <tr>
+        <td><%= indicator_value.indicator %></td>
+        <td><%= indicator_value.value %></td>
+        <td><%= link_to 'Show', indicator_value %></td>
+        <td><%= link_to 'Edit', edit_indicator_value_path(indicator_value) %></td>
+        <td><%= link_to 'Destroy', indicator_value, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Indicator value', new_indicator_value_path %>

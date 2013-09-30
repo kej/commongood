@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Indicator:</strong>
+  <%= @indicator_value.indicator %>
+</p>
+
+<p>
+  <strong>Value:</strong>
+  <%= @indicator_value.value %>
+</p>
+
+<%= link_to 'Edit', edit_indicator_value_path(@indicator_value) %> |
+<%= link_to 'Back', indicator_values_path %>

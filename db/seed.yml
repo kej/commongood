@@ -320,3 +320,225 @@ matrices:
 
   -  id: 3
      title: 'GEMEINWOHL-MATRIX 4.1 2013' 
+
+values:
+  -  id: 1
+     title: dignity     
+
+  -  id: 2
+     title: solidarity     
+
+  -  id: 3
+     title: ecology     
+
+  -  id: 4
+     title: justice     
+
+  -  id: 5
+     title: transparancy
+
+
+indicator_values:
+  -  id: 1
+     value_id: 1
+     indicator_id: 1
+
+  -  id: 2
+     value_id: 2
+     indicator_id: 1
+
+  -  id: 3
+     value_id: 3
+     indicator_id: 1
+
+  -  id: 4
+     value_id: 4
+     indicator_id: 1
+
+  -  id: 5
+     value_id: 5
+     indicator_id: 1
+
+  -  id: 6
+     value_id: 1
+     indicator_id: 2
+
+  -  id: 7
+     value_id: 2
+     indicator_id: 2
+
+  -  id: 8
+     value_id: 3
+     indicator_id: 2
+
+  -  id: 9
+     value_id: 4
+     indicator_id: 2
+
+  -  id: 10
+     value_id: 5
+     indicator_id: 2
+
+  -  id: 11
+     value_id: 1
+     indicator_id: 3
+
+  -  id: 12
+     value_id: 2
+     indicator_id: 4
+
+  -  id: 13
+     value_id: 3
+     indicator_id: 5
+
+  -  id: 14
+     value_id: 4
+     indicator_id: 6
+
+  -  id: 15
+     value_id: 4
+     indicator_id: 7
+
+  -  id: 16
+     value_id: 5
+     indicator_id: 8
+
+  -  id: 17
+     value_id: 1
+     indicator_id: 9
+
+  -  id: 18
+     value_id: 2
+     indicator_id: 10
+
+  -  id: 19
+     value_id: 3
+     indicator_id: 11
+
+  -  id: 20
+     value_id: 4
+     indicator_id: 12
+
+  -  id: 21
+     value_id: 5
+     indicator_id: 13
+
+  -  id: 22
+     value_id: 1
+     indicator_id: 14
+
+  -  id: 23
+     value_id: 2
+     indicator_id: 15
+
+  -  id: 24
+     value_id: 3
+     indicator_id: 16
+
+  -  id: 25
+     value_id: 4
+     indicator_id: 17
+
+  -  id: 26
+     value_id: 5
+     indicator_id: 18
+
+  -  id: 27
+     value_id: 1
+     indicator_id: 19
+
+  -  id: 28
+     value_id: 2
+     indicator_id: 19
+
+  -  id: 29
+     value_id: 3
+     indicator_id: 19
+
+  -  id: 30
+     value_id: 4
+     indicator_id: 19
+
+  -  id: 31
+     value_id: 5
+     indicator_id: 19
+
+  -  id: 32
+     value_id: 1
+     indicator_id: 20
+
+  -  id: 33
+     value_id: 2
+     indicator_id: 20
+
+  -  id: 34
+     value_id: 3
+     indicator_id: 20
+
+  -  id: 35
+     value_id: 4
+     indicator_id: 20
+
+  -  id: 36
+     value_id: 5
+     indicator_id: 20
+
+  -  id: 37
+     value_id: 1
+     indicator_id: 21
+
+  -  id: 38
+     value_id: 2
+     indicator_id: 22
+
+  -  id: 39
+     value_id: 3
+     indicator_id: 23
+
+  -  id: 40
+     value_id: 4
+     indicator_id: 24
+
+  -  id: 41
+     value_id: 5
+     indicator_id: 25
+
+  -  id: 42
+     value_id: 1
+     indicator_id: 26
+
+  -  id: 43
+     value_id: 2
+     indicator_id: 27
+
+  -  id: 44
+     value_id: 3
+     indicator_id: 28
+
+  -  id: 45
+     value_id: 4
+     indicator_id: 29
+
+  -  id: 46
+     value_id: 5
+     indicator_id: 30
+
+  -  id: 47
+     value_id: 1
+     indicator_id: 31
+
+  -  id: 48
+     value_id: 2
+     indicator_id: 32
+
+  -  id: 49
+     value_id: 3
+     indicator_id: 33
+
+  -  id: 50
+     value_id: 4
+     indicator_id: 34
+
+  -  id: 51
+     value_id: 5
+     indicator_id: 35

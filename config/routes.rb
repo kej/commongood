@@ -1,4 +1,8 @@
 Commongood::Application.routes.draw do
+  resources :values
+
+  resources :indicator_values
+
   resources :matrices
 
   resources :indicators

@@ -18,7 +18,7 @@ class MatricesControllerTest < ActionController::TestCase
 
   test "should create matrix" do
     assert_difference('Matrix.count') do
-      post :create, matrix: { title: @matrix.title }
+      post :create, matrix: { title: 'a different title' }
     end
 
     assert_redirected_to matrix_path(assigns(:matrix))
@@ -35,7 +35,7 @@ class MatricesControllerTest < ActionController::TestCase
   end
 
   test "should update matrix" do
-    patch :update, id: @matrix, matrix: { title: @matrix.title }
+    patch :update, id: @matrix, matrix: { title: 'a totally different title' }
     assert_redirected_to matrix_path(assigns(:matrix))
   end
 

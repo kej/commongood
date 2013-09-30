@@ -1,0 +1,35 @@
+<h1>Listing reports</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Document url</th>
+      <th>Company</th>
+      <th>Industry</th>
+      <th>Staff</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @reports.each do |report| %>
+      <tr>
+        <td><%= report.title %></td>
+        <td><%= report.document_url %></td>
+        <td><%= report.company %></td>
+        <td><%= report.industry %></td>
+        <td><%= report.staff %></td>
+        <td><%= link_to 'Show', report %></td>
+        <td><%= link_to 'Edit', edit_report_path(report) %></td>
+        <td><%= link_to 'Destroy', report, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Report', new_report_path %>

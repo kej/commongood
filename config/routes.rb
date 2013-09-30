@@ -1,4 +1,8 @@
 Commongood::Application.routes.draw do
+  resources :companies
+
+  resources :reports
+
   resources :values
 
   resources :indicator_values

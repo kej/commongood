@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  document_url: MyString
+  company_id: 
+  industry: MyText
+  staff: 1.5
+
+two:
+  title: MyString
+  document_url: MyString
+  company_id: 
+  industry: MyText
+  staff: 1.5

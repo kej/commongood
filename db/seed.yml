@@ -542,3 +542,103 @@ indicator_values:
   -  id: 51
      value_id: 5
      indicator_id: 35
+
+  -  id: 52
+     value_id: 1
+     indicator_id: 36
+
+  -  id: 53
+     value_id: 2
+     indicator_id: 36
+
+  -  id: 54
+     value_id: 3
+     indicator_id: 36
+
+  -  id: 55
+     value_id: 4
+     indicator_id: 36
+
+  -  id: 56
+     value_id: 5
+     indicator_id: 36
+
+  -  id: 57
+     value_id: 1
+     indicator_id: 37
+
+  -  id: 58
+     value_id: 2
+     indicator_id: 37
+
+  -  id: 59
+     value_id: 3
+     indicator_id: 37
+
+  -  id: 60
+     value_id: 4
+     indicator_id: 37
+
+  -  id: 61
+     value_id: 5
+     indicator_id: 37
+
+  -  id: 62
+     value_id: 1
+     indicator_id: 38
+
+  -  id: 63
+     value_id: 2
+     indicator_id: 39
+
+  -  id: 64
+     value_id: 3
+     indicator_id: 40
+
+  -  id: 65
+     value_id: 4
+     indicator_id: 41
+
+  -  id: 66
+     value_id: 5
+     indicator_id: 42
+
+  -  id: 67
+     value_id: 1
+     indicator_id: 43
+
+  -  id: 68
+     value_id: 2
+     indicator_id: 44
+
+  -  id: 69
+     value_id: 3
+     indicator_id: 45
+
+  -  id: 70
+     value_id: 4
+     indicator_id: 46
+
+  -  id: 71
+     value_id: 5
+     indicator_id: 47
+
+  -  id: 72
+     value_id: 1
+     indicator_id: 48
+
+  -  id: 73
+     value_id: 2
+     indicator_id: 49
+
+  -  id: 74
+     value_id: 3
+     indicator_id: 50
+
+  -  id: 75
+     value_id: 4
+     indicator_id: 51
+
+  -  id: 76
+     value_id: 5
+     indicator_id: 52

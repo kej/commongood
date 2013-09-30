@@ -654,41 +654,41 @@ reports:
   -  id: 1
      title: Modelabel m3
      document_url: Modelabel m3.pdf
-     company: 1
+     company_id:  1
      industry: fashion
      staff: 4
 
   -  id: 2
      title: Modelabel m40
      document_url: Modelabel m40.pdf
-     company: 1
+     company_id:  1
      industry: fashion
      staff: 7
 
   -  id: 3
      title: Modelabel m41
      document_url: Modelabel m41.pdf
-     company: 1
+     company_id:  1
      industry: fashion
      staff: 4
 
   -  id: 4
      title: Consultancy m3
      document_url: Consultancy m3.pdf
-     company: 2
+     company_id:  2
      industry: consulting
      staff: 1
 
   -  id: 5
      title: Consultancy m40
      document_url: Consultancy m40.pdf
-     company: 2
+     company_id:  2
      industry: consulting
      staff: 1
 
   -  id: 6
      title: Consultancy m41
      document_url: Consultancy m41.pdf
-     company: 2
+     company_id:  2
      industry: consulting
      staff: 2

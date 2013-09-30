@@ -19,13 +19,13 @@ indicators:
 
   -  id: 4
      short: C2
-     title: ' Gerechte Verteilung des Arbeitsvolumens'
+     title: 'Gerechte Verteilung des Arbeitsvolumens'
      matrix_id: 1
      max_points: 40
 
   -  id: 5
      short: C3
-     title: ' Fo/örderung ökologisches Verhalten der MitarbeiterInnen'
+     title: 'Fo/örderung ökologisches Verhalten der MitarbeiterInnen'
      matrix_id: 1
      max_points: 40
 
@@ -113,6 +113,203 @@ indicators:
      matrix_id: 2
      max_points: 90
 
+  -  id: 20
+     short: B1
+     title: 'Ethisches Finanzmanagement'
+     matrix_id: 2
+     max_points: 30
+
+  -  id: 21
+     short: C1
+     title: 'Arbeitsplatzqualität'
+     matrix_id: 2
+     max_points: 90
+
+  -  id: 22
+     short: C2
+     title: 'Gerechte Verteilung der Erwerbsarbeit'
+     matrix_id: 2
+     max_points: 50
+
+  -  id: 23
+     short: C3
+     title: 'Förderung ökologisches Verhalten der MitarbeiterInnen'
+     matrix_id: 2
+     max_points: 30
+
+  -  id: 24
+     short: C4
+     title: 'Gerechte Verteilung des Einkommens'
+     matrix_id: 2
+     max_points: 60
+
+  -  id: 25
+     short: C5
+     title: 'Innerbetriebliche Demokratie und Transparenz'
+     matrix_id: 2
+     max_points: 90
+
+  -  id: 26
+     short: D1
+     title: 'Ethisches Verkaufen'
+     matrix_id: 2
+     max_points: 50
+
+  -  id: 27
+     short: D2
+     title: 'Solidarität mit Mitunternehmen'
+     matrix_id: 2
+     max_points: 70
+
+  -  id: 28
+     short: D3
+     title: 'Ökologische Gestaltung der Produkte und Dienstleistungen'
+     matrix_id: 2
+     max_points: 90
+
+  -  id: 29
+     short: D4
+     title: 'Soziale Gestaltung der Produkte und Dienstleistungen'
+     matrix_id: 2
+     max_points: 30
+
+  -  id: 30
+     short: D5
+     title: 'Erhöhung der sozialen und ökologischen Branchenstandards'
+     matrix_id: 2
+     max_points: 30
+
+  -  id: 31
+     short: E1
+     title: 'Gesellschaftliche Wirkung der Produkte'
+     matrix_id: 2
+     max_points: 90
+
+  -  id: 32
+     short: E2
+     title: 'Beitrag zum Gemeinwesen'
+     matrix_id: 2
+     max_points: 40
+
+  -  id: 33
+     short: E3
+     title: 'Reduktion ökologische Auswirkungen'
+     matrix_id: 2
+     max_points: 70
+
+  -  id: 34
+     short: E4
+     title: 'Minimierung der Gewinnausschüttung an Externe'
+     matrix_id: 2
+     max_points: 60
+
+  -  id: 35
+     short: E5
+     title: 'Gesellschaftliche Transparenz und Mitbestimmung'
+     matrix_id: 2
+     max_points: 30
+
+  -  id: 36
+     short: A1
+     title: Ethisches Beschaffungsmanagement
+     matrix_id: 3
+     max_points: 90
+
+  -  id: 37
+     short: B1
+     title: 'Ethisches Finanzmanagement'
+     matrix_id: 3
+     max_points: 30
+
+  -  id: 38
+     short: C1
+     title: 'Arbeitsplatzqualität'
+     matrix_id: 3
+     max_points: 90
+
+  -  id: 39
+     short: C2
+     title: 'Gerechte Verteilung der Erwerbsarbeit'
+     matrix_id: 3
+     max_points: 50
+
+  -  id: 40
+     short: C3
+     title: 'Förderung ökologisches Verhalten der MitarbeiterInnen'
+     matrix_id: 3
+     max_points: 30
+
+  -  id: 41
+     short: C4
+     title: 'Gerechte Verteilung des Einkommens'
+     matrix_id: 3
+     max_points: 60
+
+  -  id: 42
+     short: C5
+     title: 'Innerbetriebliche Demokratie und Transparenz'
+     matrix_id: 3
+     max_points: 90
+
+  -  id: 43
+     short: D1
+     title: 'Ethisches Verkaufen'
+     matrix_id: 3
+     max_points: 50
+
+  -  id: 44
+     short: D2
+     title: 'Solidarität mit Mitunternehmen'
+     matrix_id: 3
+     max_points: 70
+
+  -  id: 45
+     short: D3
+     title: 'Ökologische Gestaltung der Produkte und Dienstleistungen'
+     matrix_id: 3
+     max_points: 90
+
+  -  id: 46
+     short: D4
+     title: 'Soziale Gestaltung der Produkte und Dienstleistungen'
+     matrix_id: 3
+     max_points: 30
+
+  -  id: 47
+     short: D5
+     title: 'Erhöhung der sozialen und ökologischen Branchenstandards'
+     matrix_id: 3
+     max_points: 30
+
+  -  id: 48
+     short: E1
+     title: 'Gesellschaftliche Wirkung der Produkte'
+     matrix_id: 3
+     max_points: 90
+
+  -  id: 49
+     short: E2
+     title: 'Beitrag zum Gemeinwesen'
+     matrix_id: 3
+     max_points: 40
+
+  -  id: 50
+     short: E3
+     title: 'Reduktion ökologische Auswirkungen'
+     matrix_id: 3
+     max_points: 70
+
+  -  id: 51
+     short: E4
+     title: 'Minimierung der Gewinnausschüttung an Externe'
+     matrix_id: 3
+     max_points: 60
+
+  -  id: 52
+     short: E5
+     title: 'Gesellschaftliche Transparenz und Mitbestimmung'
+     matrix_id: 3
+     max_points: 30
 
 matrices:
   -  id: 1
@@ -120,3 +317,6 @@ matrices:
 
   -  id: 2
      title: 'GEMEINWOHL-MATRIX 4.0 2012' 
+
+  -  id: 3
+     title: 'GEMEINWOHL-MATRIX 4.1 2013' 

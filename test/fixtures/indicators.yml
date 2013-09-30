@@ -11,3 +11,9 @@ two:
   title: MyString
   matrix_id: 
   max_points: 1
+
+a1_m3:
+  short: 'A1'
+  title: 'Ethisches Beschaffungsmanagement'
+  matrix: m3
+  max_points: 100

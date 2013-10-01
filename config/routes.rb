@@ -1,4 +1,8 @@
 Commongood::Application.routes.draw do
+  resources :indicator_stakeholders
+
+  resources :stakeholders
+
   resources :companies
 
   resources :reports

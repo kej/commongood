@@ -13,6 +13,8 @@ Indicator.delete_all
 Matrix.delete_all
 Value.delete_all
 IndicatorValue.delete_all
+Stakeholder.delete_all
+IndicatorStakeholder.delete_all
 Company.delete_all
 Report.delete_all
 
@@ -22,5 +24,7 @@ Indicator.create(config["indicators"])
 Matrix.create(config["matrices"])
 Value.create(config["values"])
 IndicatorValue.create(config["indicator_values"])
+Stakeholder.create(config["stakeholders"])
+IndicatorStakeholder.create(config["indicator_stakeholders"])
 Company.create(config["companies"])
 Report.create(config["reports"])

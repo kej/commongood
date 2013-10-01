@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Indicator:</strong>
+  <%= @indicator_stakeholder.indicator %>
+</p>
+
+<p>
+  <strong>Stakeholder:</strong>
+  <%= @indicator_stakeholder.stakeholder %>
+</p>
+
+<%= link_to 'Edit', edit_indicator_stakeholder_path(@indicator_stakeholder) %> |
+<%= link_to 'Back', indicator_stakeholders_path %>

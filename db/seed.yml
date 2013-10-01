@@ -337,6 +337,21 @@ values:
   -  id: 5
      title: transparancy
 
+stakeholders:
+  -  id: 1
+     title: suppliers     
+
+  -  id: 2
+     title: investors     
+
+  -  id: 3
+     title: employees     
+
+  -  id: 4
+     title: customers     
+
+  -  id: 5
+     title: environment
 
 indicator_values:
   -  id: 1
@@ -641,6 +656,215 @@ indicator_values:
 
   -  id: 76
      value_id: 5
+     indicator_id: 52
+
+indicator_stakeholders:
+  -  id: 1
+     stakeholder_id: 1
+     indicator_id: 1
+
+  -  id: 2
+     stakeholder_id: 2
+     indicator_id: 2
+
+  -  id: 3
+     stakeholder_id: 3
+     indicator_id: 3
+
+  -  id: 4
+     stakeholder_id: 3
+     indicator_id: 4
+
+  -  id: 5
+     stakeholder_id: 3
+     indicator_id: 5
+
+  -  id: 6
+     stakeholder_id: 3
+     indicator_id: 6
+
+  -  id: 7
+     stakeholder_id: 3
+     indicator_id: 7
+
+  -  id: 8
+     stakeholder_id: 3
+     indicator_id: 8
+
+  -  id: 9
+     stakeholder_id: 4
+     indicator_id: 9
+
+  -  id: 10
+     stakeholder_id: 4
+     indicator_id: 10
+
+  -  id: 11
+     stakeholder_id: 4
+     indicator_id: 11
+
+  -  id: 12
+     stakeholder_id: 4
+     indicator_id: 12
+
+  -  id: 13
+     stakeholder_id: 4
+     indicator_id: 13
+
+  -  id: 14
+     stakeholder_id: 5
+     indicator_id: 14
+
+  -  id: 15
+     stakeholder_id: 5
+     indicator_id: 15
+
+  -  id: 16
+     stakeholder_id: 5
+     indicator_id: 16
+
+  -  id: 17
+     stakeholder_id: 5
+     indicator_id: 17
+
+  -  id: 18
+     stakeholder_id: 5
+     indicator_id: 18
+
+  -  id: 19
+     stakeholder_id: 1
+     indicator_id: 19
+
+  -  id: 20
+     stakeholder_id: 2
+     indicator_id: 20
+
+  -  id: 21
+     stakeholder_id: 3
+     indicator_id: 21
+
+  -  id: 22
+     stakeholder_id: 3
+     indicator_id: 22
+
+  -  id: 23
+     stakeholder_id: 3
+     indicator_id: 23
+
+  -  id: 24
+     stakeholder_id: 3
+     indicator_id: 24
+
+  -  id: 25
+     stakeholder_id: 3
+     indicator_id: 25
+
+  -  id: 26
+     stakeholder_id: 4
+     indicator_id: 26
+
+  -  id: 27
+     stakeholder_id: 4
+     indicator_id: 27
+
+  -  id: 28
+     stakeholder_id: 4
+     indicator_id: 28
+
+  -  id: 29
+     stakeholder_id: 4
+     indicator_id: 29
+
+  -  id: 30
+     stakeholder_id: 4
+     indicator_id: 30
+
+  -  id: 31
+     stakeholder_id: 5
+     indicator_id: 31
+
+  -  id: 32
+     stakeholder_id: 5
+     indicator_id: 32
+
+  -  id: 33
+     stakeholder_id: 5
+     indicator_id: 33
+
+  -  id: 34
+     stakeholder_id: 5
+     indicator_id: 34
+
+  -  id: 35
+     stakeholder_id: 5
+     indicator_id: 35
+
+  -  id: 36
+     stakeholder_id: 1
+     indicator_id: 36
+
+  -  id: 37
+     stakeholder_id: 2
+     indicator_id: 37
+
+  -  id: 38
+     stakeholder_id: 3
+     indicator_id: 38
+
+  -  id: 39
+     stakeholder_id: 3
+     indicator_id: 39
+
+  -  id: 40
+     stakeholder_id: 3
+     indicator_id: 40
+
+  -  id: 41
+     stakeholder_id: 3
+     indicator_id: 41
+
+  -  id: 42
+     stakeholder_id: 3
+     indicator_id: 42
+
+  -  id: 43
+     stakeholder_id: 4
+     indicator_id: 43
+
+  -  id: 44
+     stakeholder_id: 4
+     indicator_id: 44
+
+  -  id: 45
+     stakeholder_id: 4
+     indicator_id: 45
+
+  -  id: 46
+     stakeholder_id: 4
+     indicator_id: 46
+
+  -  id: 47
+     stakeholder_id: 4
+     indicator_id: 47
+
+  -  id: 48
+     stakeholder_id: 5
+     indicator_id: 48
+
+  -  id: 49
+     stakeholder_id: 5
+     indicator_id: 49
+
+  -  id: 50
+     stakeholder_id: 5
+     indicator_id: 50
+
+  -  id: 51
+     stakeholder_id: 5
+     indicator_id: 51
+
+  -  id: 52
+     stakeholder_id: 5
      indicator_id: 52
 
 companies:

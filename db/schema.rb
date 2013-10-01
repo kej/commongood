@@ -11,13 +11,23 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20130930211755) do
+ActiveRecord::Schema.define(version: 20131001102451) do
 
   create_table "companies", force: true do |t|
     t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  create_table "indicator_stakeholders", force: true do |t|
+    t.integer  "indicator_id"
+    t.integer  "stakeholder_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "indicator_stakeholders", ["indicator_id"], name: "index_indicator_stakeholders_on_indicator_id"
+  add_index "indicator_stakeholders", ["stakeholder_id"], name: "index_indicator_stakeholders_on_stakeholder_id"
 
   create_table "indicator_values", force: true do |t|
     t.integer  "indicator_id"
@@ -57,6 +67,12 @@ ActiveRecord::Schema.define(version: 20130930211755) do
   end
 
   add_index "reports", ["company_id"], name: "index_reports_on_company_id"
+
+  create_table "stakeholders", force: true do |t|
+    t.string   "title"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "values", force: true do |t|
     t.string   "title"

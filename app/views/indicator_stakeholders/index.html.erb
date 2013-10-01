@@ -1,0 +1,29 @@
+<h1>Listing indicator_stakeholders</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Indicator</th>
+      <th>Stakeholder</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @indicator_stakeholders.each do |indicator_stakeholder| %>
+      <tr>
+        <td><%= indicator_stakeholder.indicator %></td>
+        <td><%= indicator_stakeholder.stakeholder %></td>
+        <td><%= link_to 'Show', indicator_stakeholder %></td>
+        <td><%= link_to 'Edit', edit_indicator_stakeholder_path(indicator_stakeholder) %></td>
+        <td><%= link_to 'Destroy', indicator_stakeholder, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Indicator stakeholder', new_indicator_stakeholder_path %>

@@ -1,0 +1,2 @@
+module IndicatorStakeholdersHelper
+end

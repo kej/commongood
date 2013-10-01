@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  description: MyText
+  chapter_id: 
+  order: 1
+
+two:
+  description: MyText
+  chapter_id: 
+  order: 1

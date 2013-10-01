@@ -17,6 +17,8 @@ Stakeholder.delete_all
 IndicatorStakeholder.delete_all
 Company.delete_all
 Report.delete_all
+Chapter.delete_all
+Solution.delete_all
 
 seed_file = File.join(Rails.root, 'db', 'seed.yml')
 config = YAML::load_file(seed_file)
@@ -28,3 +30,5 @@ Stakeholder.create(config["stakeholders"])
 IndicatorStakeholder.create(config["indicator_stakeholders"])
 Company.create(config["companies"])
 Report.create(config["reports"])
+Chapter.create(config["chapters"])
+Solution.create(config["solutions"])

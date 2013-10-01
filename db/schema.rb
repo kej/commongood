@@ -11,7 +11,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131001102451) do
+ActiveRecord::Schema.define(version: 20131001193508) do
+
+  create_table "chapters", force: true do |t|
+    t.integer  "report_id"
+    t.integer  "indicator_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "chapters", ["indicator_id"], name: "index_chapters_on_indicator_id"
+  add_index "chapters", ["report_id"], name: "index_chapters_on_report_id"
 
   create_table "companies", force: true do |t|
     t.string   "name"
@@ -67,6 +77,16 @@ ActiveRecord::Schema.define(version: 20131001102451) do
   end
 
   add_index "reports", ["company_id"], name: "index_reports_on_company_id"
+
+  create_table "solutions", force: true do |t|
+    t.text     "description"
+    t.integer  "chapter_id"
+    t.integer  "order"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "solutions", ["chapter_id"], name: "index_solutions_on_chapter_id"
 
   create_table "stakeholders", force: true do |t|
     t.string   "title"

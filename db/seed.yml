@@ -916,3 +916,1462 @@ reports:
      company_id:  2
      industry: consulting
      staff: 2
+
+chapters:
+  -  id: 1
+     report_id: 1
+     indicator_id: 1     
+
+  -  id: 2
+     report_id: 1
+     indicator_id: 2
+
+  -  id: 3
+     report_id: 1
+     indicator_id: 3     
+
+  -  id: 4
+     report_id: 1
+     indicator_id: 4     
+
+  -  id: 5
+     report_id: 1
+     indicator_id: 5     
+
+  -  id: 6
+     report_id: 1
+     indicator_id: 6     
+
+  -  id: 7
+     report_id: 1
+     indicator_id: 7     
+
+  -  id: 8
+     report_id: 1
+     indicator_id: 8     
+
+  -  id: 9
+     report_id: 1
+     indicator_id: 9     
+
+  -  id: 10
+     report_id: 1
+     indicator_id: 10     
+
+  -  id: 11
+     report_id: 1
+     indicator_id: 11    
+
+  -  id: 12
+     report_id: 1
+     indicator_id: 12    
+
+  -  id: 13
+     report_id: 1
+     indicator_id: 13    
+
+  -  id: 14
+     report_id: 1
+     indicator_id: 14    
+
+  -  id: 15
+     report_id: 1
+     indicator_id: 15    
+
+  -  id: 16
+     report_id: 1
+     indicator_id: 16     
+
+  -  id: 17
+     report_id: 1
+     indicator_id: 17    
+
+  -  id: 18
+     report_id: 1
+     indicator_id: 18    
+
+  -  id: 19
+     report_id: 4
+     indicator_id: 1     
+
+  -  id: 20
+     report_id: 4
+     indicator_id: 2     
+
+  -  id: 21
+     report_id: 4
+     indicator_id: 3     
+
+  -  id: 22
+     report_id: 4
+     indicator_id: 4     
+
+  -  id: 23
+     report_id: 4
+     indicator_id: 5     
+
+  -  id: 24
+     report_id: 4
+     indicator_id: 6     
+
+  -  id: 25
+     report_id: 4
+     indicator_id: 7     
+
+  -  id: 26
+     report_id: 4
+     indicator_id: 8     
+
+  -  id: 27
+     report_id: 4
+     indicator_id: 9     
+
+  -  id: 28
+     report_id: 4
+     indicator_id: 10     
+
+  -  id: 29
+     report_id: 4
+     indicator_id: 11    
+
+  -  id: 30
+     report_id: 4
+     indicator_id: 12    
+
+  -  id: 31
+     report_id: 4
+     indicator_id: 13    
+
+  -  id: 32
+     report_id: 4
+     indicator_id: 14    
+
+  -  id: 33
+     report_id: 4
+     indicator_id: 15    
+
+  -  id: 34
+     report_id: 4
+     indicator_id: 16    
+
+  -  id: 35
+     report_id: 4
+     indicator_id: 17    
+
+  -  id: 36
+     report_id: 4
+     indicator_id: 18
+
+  -  id: 37
+     report_id: 2
+     indicator_id: 19
+
+  -  id: 38
+     report_id: 2
+     indicator_id: 20    
+
+  -  id: 39
+     report_id: 2
+     indicator_id: 21    
+
+  -  id: 40
+     report_id: 2
+     indicator_id: 22    
+
+  -  id: 41
+     report_id: 2
+     indicator_id: 23    
+
+  -  id: 42
+     report_id: 2
+     indicator_id: 24    
+
+  -  id: 43
+     report_id: 2
+     indicator_id: 25    
+
+  -  id: 44
+     report_id: 2
+     indicator_id: 26    
+
+  -  id: 45
+     report_id: 2
+     indicator_id: 27    
+
+  -  id: 46
+     report_id: 2
+     indicator_id: 28    
+
+  -  id: 47
+     report_id: 2
+     indicator_id: 29
+
+  -  id: 48
+     report_id: 2
+     indicator_id: 30
+
+  -  id: 49
+     report_id: 2
+     indicator_id: 31    
+
+  -  id: 50
+     report_id: 2
+     indicator_id: 32    
+
+  -  id: 51
+     report_id: 2
+     indicator_id: 33  
+
+  -  id: 52
+     report_id: 2
+     indicator_id: 34     
+
+  -  id: 53
+     report_id: 2
+     indicator_id: 35
+
+  -  id: 54
+     report_id: 5
+     indicator_id: 19
+
+  -  id: 55
+     report_id: 5
+     indicator_id: 20    
+
+  -  id: 56
+     report_id: 5
+     indicator_id: 21    
+
+  -  id: 57
+     report_id: 5
+     indicator_id: 22    
+
+  -  id: 58
+     report_id: 5
+     indicator_id: 23    
+
+  -  id: 59
+     report_id: 5
+     indicator_id: 24    
+
+  -  id: 60
+     report_id: 5
+     indicator_id: 25    
+
+  -  id: 61
+     report_id: 5
+     indicator_id: 26    
+
+  -  id: 62
+     report_id: 5
+     indicator_id: 27    
+
+  -  id: 63
+     report_id: 5
+     indicator_id: 28    
+
+  -  id: 64
+     report_id: 5
+     indicator_id: 29
+
+  -  id: 65
+     report_id: 5
+     indicator_id: 30
+
+  -  id: 66
+     report_id: 5
+     indicator_id: 31    
+
+  -  id: 67
+     report_id: 5
+     indicator_id: 32    
+
+  -  id: 68
+     report_id: 5
+     indicator_id: 33  
+
+  -  id: 69
+     report_id: 5
+     indicator_id: 34     
+
+  -  id: 70
+     report_id: 5
+     indicator_id: 35
+
+  -  id: 71
+     report_id: 3
+     indicator_id: 36
+
+  -  id: 72
+     report_id: 3
+     indicator_id: 37    
+
+  -  id: 73
+     report_id: 3
+     indicator_id: 38    
+
+  -  id: 74
+     report_id: 3
+     indicator_id: 39    
+
+  -  id: 75
+     report_id: 3
+     indicator_id: 40    
+
+  -  id: 76
+     report_id: 3
+     indicator_id: 41    
+
+  -  id: 77
+     report_id: 3
+     indicator_id: 42    
+
+  -  id: 78
+     report_id: 3
+     indicator_id: 43    
+
+  -  id: 79
+     report_id: 3
+     indicator_id: 44    
+
+  -  id: 80
+     report_id: 3
+     indicator_id: 45    
+
+  -  id: 81
+     report_id: 3
+     indicator_id: 46
+
+  -  id: 82
+     report_id: 3
+     indicator_id: 47
+
+  -  id: 83
+     report_id: 3
+     indicator_id: 48    
+
+  -  id: 84
+     report_id: 3
+     indicator_id: 49    
+
+  -  id: 85
+     report_id: 3
+     indicator_id: 50  
+
+  -  id: 86
+     report_id: 3
+     indicator_id: 51     
+
+  -  id: 87
+     report_id: 3
+     indicator_id: 52
+
+  -  id: 88
+     report_id: 6
+     indicator_id: 36
+
+  -  id: 89
+     report_id: 6
+     indicator_id: 37    
+
+  -  id: 90
+     report_id: 6
+     indicator_id: 38    
+
+  -  id: 91
+     report_id: 6
+     indicator_id: 39    
+
+  -  id: 92
+     report_id: 6
+     indicator_id: 40    
+
+  -  id: 93
+     report_id: 6
+     indicator_id: 41    
+
+  -  id: 94
+     report_id: 6
+     indicator_id: 42    
+
+  -  id: 95
+     report_id: 6
+     indicator_id: 43    
+
+  -  id: 96
+     report_id: 6
+     indicator_id: 44    
+
+  -  id: 97
+     report_id: 6
+     indicator_id: 45    
+
+  -  id: 98
+     report_id: 6
+     indicator_id: 46
+
+  -  id: 99
+     report_id: 6
+     indicator_id: 47
+
+  -  id: 100
+     report_id: 6
+     indicator_id: 48    
+
+  -  id: 101
+     report_id: 6
+     indicator_id: 49    
+
+  -  id: 102
+     report_id: 6
+     indicator_id: 50  
+
+  -  id: 103
+     report_id: 6
+     indicator_id: 51     
+
+  -  id: 104
+     report_id: 6
+     indicator_id: 52
+
+solutions: 
+  -  id: 1
+     chapter_id: 1
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, A1, Ethisches Beschaffungsmanagement"
+
+  -  id: 2
+     chapter_id: 1
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, A1, Ethisches Beschaffungsmanagement"
+
+  -  id: 3
+     chapter_id: 2
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, B1, Ethisches Finanzmanagement"
+
+  -  id: 4
+     chapter_id: 2
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, B1, Ethisches Finanzmanagement"
+
+  -  id: 5
+     chapter_id: 3
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, C1, Arbeitsplatzqualität"
+
+  -  id: 6
+     chapter_id: 3
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, C1, Arbeitsplatzqualität"
+
+  -  id: 7
+     chapter_id: 4
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, C2, Gerechte Verteilung des Arbeitsvolumens"
+
+  -  id: 8
+     chapter_id: 4
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, C2, Gerechte Verteilung des Arbeitsvolumens"
+
+  -  id: 9
+     chapter_id: 5
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, C3, Fo/örderung ökologisches Verhalten der MitarbeiterInnen"
+
+  -  id: 10
+     chapter_id: 5
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, C3, Fo/örderung ökologisches Verhalten der MitarbeiterInnen"
+
+  -  id: 11
+     chapter_id: 6
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, C4, Gerechte Verteilung des Einkommens"
+
+  -  id: 12
+     chapter_id: 6
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, C4, Gerechte Verteilung des Einkommens"
+
+  -  id: 13
+     chapter_id: 7
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, C5, Gleichstellung / Inklusion Benachteiligter"
+
+  -  id: 14
+     chapter_id: 7
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, C5, Gleichstellung / Inklusion Benachteiligter"
+
+  -  id: 15
+     chapter_id: 8
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, C6, Innerbetriebliche Transparenz und Mitbestimmung"
+
+  -  id: 16
+     chapter_id: 8
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, C6, Innerbetriebliche Transparenz und Mitbestimmung"
+
+  -  id: 17
+     chapter_id: 9
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, D1, Ethisches Verkaufen"
+
+  -  id: 18
+     chapter_id: 9
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, D1, Ethisches Verkaufen"
+
+  -  id: 19
+     chapter_id: 10
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, D2, Solidarität mit Mitunternehmen"
+
+  -  id: 20
+     chapter_id: 10
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, D2, Solidarität mit Mitunternehmen"
+
+  -  id: 21
+     chapter_id: 11
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, D3, Ökologische Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 22
+     chapter_id: 11
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, D3, Ökologische Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 23
+     chapter_id: 12
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, D4, Soziale Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 24
+     chapter_id: 12
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, D4, Soziale Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 25
+     chapter_id: 13
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, D5, Erhöhung der sozialen und ökologischen Branchenstandards"
+
+  -  id: 26
+     chapter_id: 13
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, D5, Erhöhung der sozialen und ökologischen Branchenstandards"
+
+  -  id: 27
+     chapter_id: 14
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, E1, Gesellschaftliche Wirkung"
+
+  -  id: 28
+     chapter_id: 14
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, E1, Gesellschaftliche Wirkung"
+
+  -  id: 29
+     chapter_id: 15
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, E2, Beitrag zum Gemeinwesen"
+
+  -  id: 30
+     chapter_id: 15
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, E2, Beitrag zum Gemeinwesen"
+
+  -  id: 31
+     chapter_id: 16
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, E3, Reduktion ökologische Auswirkungen"
+
+  -  id: 32
+     chapter_id: 16
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, E3, Reduktion ökologische Auswirkungen"
+
+  -  id: 33
+     chapter_id: 17
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, E4, Minimierung der Gewinnausschüttung an Externe"
+
+  -  id: 34
+     chapter_id: 17
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, E4, Minimierung der Gewinnausschüttung an Externe"
+
+  -  id: 35
+     chapter_id: 18
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m3, E5, Gesellschaftliche Transparenz und Mitbestimmung"
+
+  -  id: 36
+     chapter_id: 18
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m3, E5, Gesellschaftliche Transparenz und Mitbestimmung"
+
+  -  id: 37
+     chapter_id: 19
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, A1, Ethisches Beschaffungsmanagement"
+
+  -  id: 38
+     chapter_id: 19
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, A1, Ethisches Beschaffungsmanagement"
+
+  -  id: 39
+     chapter_id: 20
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, B1, Ethisches Finanzmanagement"
+
+  -  id: 40
+     chapter_id: 20
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, B1, Ethisches Finanzmanagement"
+
+  -  id: 41
+     chapter_id: 21
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, C1, Arbeitsplatzqualität"
+
+  -  id: 42
+     chapter_id: 21
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, C1, Arbeitsplatzqualität"
+
+  -  id: 43
+     chapter_id: 22
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, C2, Gerechte Verteilung des Arbeitsvolumens"
+
+  -  id: 44
+     chapter_id: 22
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, C2, Gerechte Verteilung des Arbeitsvolumens"
+
+  -  id: 45
+     chapter_id: 23
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, C3, Fo/örderung ökologisches Verhalten der MitarbeiterInnen"
+
+  -  id: 46
+     chapter_id: 23
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, C3, Fo/örderung ökologisches Verhalten der MitarbeiterInnen"
+
+  -  id: 47
+     chapter_id: 24
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, C4, Gerechte Verteilung des Einkommens"
+
+  -  id: 48
+     chapter_id: 24
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, C4, Gerechte Verteilung des Einkommens"
+
+  -  id: 49
+     chapter_id: 25
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, C5, Gleichstellung / Inklusion Benachteiligter"
+
+  -  id: 50
+     chapter_id: 25
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, C5, Gleichstellung / Inklusion Benachteiligter"
+
+  -  id: 51
+     chapter_id: 26
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, C6, Innerbetriebliche Transparenz und Mitbestimmung"
+
+  -  id: 52
+     chapter_id: 26
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, C6, Innerbetriebliche Transparenz und Mitbestimmung"
+
+  -  id: 53
+     chapter_id: 27
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, D1, Ethisches Verkaufen"
+
+  -  id: 54
+     chapter_id: 27
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, D1, Ethisches Verkaufen"
+
+  -  id: 55
+     chapter_id: 28
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, D2, Solidarität mit Mitunternehmen"
+
+  -  id: 56
+     chapter_id: 28
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, D2, Solidarität mit Mitunternehmen"
+
+  -  id: 57
+     chapter_id: 29
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, D3, Ökologische Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 58
+     chapter_id: 29
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, D3, Ökologische Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 59
+     chapter_id: 30
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, D4, Soziale Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 60
+     chapter_id: 30
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, D4, Soziale Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 61
+     chapter_id: 31
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, D5, Erhöhung der sozialen und ökologischen Branchenstandards"
+
+  -  id: 62
+     chapter_id: 31
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, D5, Erhöhung der sozialen und ökologischen Branchenstandards"
+
+  -  id: 63
+     chapter_id: 32
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, E1, Gesellschaftliche Wirkung"
+
+  -  id: 64
+     chapter_id: 32
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, E1, Gesellschaftliche Wirkung"
+
+  -  id: 65
+     chapter_id: 33
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, E2, Beitrag zum Gemeinwesen"
+
+  -  id: 66
+     chapter_id: 33
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, E2, Beitrag zum Gemeinwesen"
+
+  -  id: 67
+     chapter_id: 34
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, E3, Reduktion ökologische Auswirkungen"
+
+  -  id: 68
+     chapter_id: 34
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, E3, Reduktion ökologische Auswirkungen"
+
+  -  id: 69
+     chapter_id: 35
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, E4, Minimierung der Gewinnausschüttung an Externe"
+
+  -  id: 70
+     chapter_id: 35
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, E4, Minimierung der Gewinnausschüttung an Externe"
+
+  -  id: 71
+     chapter_id: 36
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m3, E5, Gesellschaftliche Transparenz und Mitbestimmung"
+
+  -  id: 72
+     chapter_id: 36
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m3, E5, Gesellschaftliche Transparenz und Mitbestimmung"
+
+  -  id: 73
+     chapter_id: 37
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, A1, Ethisches Beschaffungsmanagement"
+
+  -  id: 74
+     chapter_id: 37
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, A1, Ethisches Beschaffungsmanagement"
+
+  -  id: 75
+     chapter_id: 38
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, B1, Ethisches Finanzmanagement"
+
+  -  id: 76
+     chapter_id: 38
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, B1, Ethisches Finanzmanagement"
+
+  -  id: 77
+     chapter_id: 39
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, C1, Arbeitsplatzqualität"
+
+  -  id: 78
+     chapter_id: 39
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, C1, Arbeitsplatzqualität"
+
+  -  id: 79
+     chapter_id: 40
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, C2, Gerechte Verteilung der Erwerbsarbeit"
+
+  -  id: 80
+     chapter_id: 40
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, C2, Gerechte Verteilung der Erwerbsarbeit"
+
+  -  id: 81
+     chapter_id: 41
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, C3, Förderung ökologisches Verhalten der MitarbeiterInnen"
+
+  -  id: 82
+     chapter_id: 41
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, C3, Förderung ökologisches Verhalten der MitarbeiterInnen"
+
+  -  id: 83
+     chapter_id: 42
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, C4, Gerechte Verteilung des Einkommens"
+
+  -  id: 84
+     chapter_id: 42
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, C4, Gerechte Verteilung des Einkommens"
+
+  -  id: 85
+     chapter_id: 43
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, C5, Innerbetriebliche Demokratie und Transparenz"
+
+  -  id: 86
+     chapter_id: 43
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, C5, Innerbetriebliche Demokratie und Transparenz"
+
+  -  id: 87
+     chapter_id: 44
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, D1, Ethisches Verkaufen"
+
+  -  id: 88
+     chapter_id: 44
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, D1, Ethisches Verkaufen"
+
+  -  id: 89
+     chapter_id: 45
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, D2, Solidarität mit Mitunternehmen"
+
+  -  id: 90
+     chapter_id: 45
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, D2, Solidarität mit Mitunternehmen"
+
+  -  id: 91
+     chapter_id: 46
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, D3, Ökologische Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 92
+     chapter_id: 46
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, D3, Ökologische Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 93
+     chapter_id: 47
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, D4, Soziale Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 94
+     chapter_id: 47
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, D4, Soziale Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 95
+     chapter_id: 48
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, D5, Erhöhung der sozialen und ökologischen Branchenstandards"
+
+  -  id: 96
+     chapter_id: 48
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, D5, Erhöhung der sozialen und ökologischen Branchenstandards"
+
+  -  id: 97
+     chapter_id: 49
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, E1, Gesellschaftliche Wirkung der Produkte"
+
+  -  id: 98
+     chapter_id: 49
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, E1, Gesellschaftliche Wirkung der Produkte"
+
+  -  id: 99
+     chapter_id: 50
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, E2, Beitrag zum Gemeinwesen"
+
+  -  id: 100
+     chapter_id: 50
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, E2, Beitrag zum Gemeinwesen"
+
+  -  id: 101
+     chapter_id: 51
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, E3, Reduktion ökologische Auswirkungen"
+
+  -  id: 102
+     chapter_id: 51
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, E3, Reduktion ökologische Auswirkungen"
+
+  -  id: 103
+     chapter_id: 52
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, E4, Minimierung der Gewinnausschüttung an Externe"
+
+  -  id: 104
+     chapter_id: 52
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, E4, Minimierung der Gewinnausschüttung an Externe"
+
+  -  id: 105
+     chapter_id: 53
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m40, E5, Gesellschaftliche Transparenz und Mitbestimmung"
+
+  -  id: 106
+     chapter_id: 53
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m40, E5, Gesellschaftliche Transparenz und Mitbestimmung"
+
+  -  id: 107
+     chapter_id: 54
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, A1, Ethisches Beschaffungsmanagement"
+
+  -  id: 108
+     chapter_id: 54
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, A1, Ethisches Beschaffungsmanagement"
+
+  -  id: 109
+     chapter_id: 55
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, B1, Ethisches Finanzmanagement"
+
+  -  id: 110
+     chapter_id: 55
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, B1, Ethisches Finanzmanagement"
+
+  -  id: 111
+     chapter_id: 56
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, C1, Arbeitsplatzqualität"
+
+  -  id: 112
+     chapter_id: 56
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, C1, Arbeitsplatzqualität"
+
+  -  id: 113
+     chapter_id: 57
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, C2, Gerechte Verteilung der Erwerbsarbeit"
+
+  -  id: 114
+     chapter_id: 57
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, C2, Gerechte Verteilung der Erwerbsarbeit"
+
+  -  id: 115
+     chapter_id: 58
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, C3, Förderung ökologisches Verhalten der MitarbeiterInnen"
+
+  -  id: 116
+     chapter_id: 58
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, C3, Förderung ökologisches Verhalten der MitarbeiterInnen"
+
+  -  id: 117
+     chapter_id: 59
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, C4, Gerechte Verteilung des Einkommens"
+
+  -  id: 118
+     chapter_id: 59
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, C4, Gerechte Verteilung des Einkommens"
+
+  -  id: 119
+     chapter_id: 60
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, C5, Innerbetriebliche Demokratie und Transparenz"
+
+  -  id: 120
+     chapter_id: 60
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, C5, Innerbetriebliche Demokratie und Transparenz"
+
+  -  id: 121
+     chapter_id: 61
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, D1, Ethisches Verkaufen"
+
+  -  id: 122
+     chapter_id: 61
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, D1, Ethisches Verkaufen"
+
+  -  id: 123
+     chapter_id: 62
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, D2, Solidarität mit Mitunternehmen"
+
+  -  id: 124
+     chapter_id: 62
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, D2, Solidarität mit Mitunternehmen"
+
+  -  id: 125
+     chapter_id: 63
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, D3, Ökologische Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 126
+     chapter_id: 63
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, D3, Ökologische Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 127
+     chapter_id: 64
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, D4, Soziale Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 128
+     chapter_id: 64
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, D4, Soziale Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 129
+     chapter_id: 65
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, D5, Erhöhung der sozialen und ökologischen Branchenstandards"
+
+  -  id: 130
+     chapter_id: 65
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, D5, Erhöhung der sozialen und ökologischen Branchenstandards"
+
+  -  id: 131
+     chapter_id: 66
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, E1, Gesellschaftliche Wirkung der Produkte"
+
+  -  id: 132
+     chapter_id: 66
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, E1, Gesellschaftliche Wirkung der Produkte"
+
+  -  id: 133
+     chapter_id: 67
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, E2, Beitrag zum Gemeinwesen"
+
+  -  id: 134
+     chapter_id: 67
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, E2, Beitrag zum Gemeinwesen"
+
+  -  id: 135
+     chapter_id: 68
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, E3, Reduktion ökologische Auswirkungen"
+
+  -  id: 136
+     chapter_id: 68
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, E3, Reduktion ökologische Auswirkungen"
+
+  -  id: 137
+     chapter_id: 69
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, E4, Minimierung der Gewinnausschüttung an Externe"
+
+  -  id: 138
+     chapter_id: 69
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, E4, Minimierung der Gewinnausschüttung an Externe"
+
+  -  id: 139
+     chapter_id: 70
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m40, E5, Gesellschaftliche Transparenz und Mitbestimmung"
+
+  -  id: 140
+     chapter_id: 70
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m40, E5, Gesellschaftliche Transparenz und Mitbestimmung"
+
+  -  id: 141
+     chapter_id: 71
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, A1, Ethisches Beschaffungsmanagement"
+
+  -  id: 142
+     chapter_id: 71
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, A1, Ethisches Beschaffungsmanagement"
+
+  -  id: 143
+     chapter_id: 72
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, B1, Ethisches Finanzmanagement"
+
+  -  id: 144
+     chapter_id: 72
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, B1, Ethisches Finanzmanagement"
+
+  -  id: 145
+     chapter_id: 73
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, C1, Arbeitsplatzqualität"
+
+  -  id: 146
+     chapter_id: 73
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, C1, Arbeitsplatzqualität"
+
+  -  id: 147
+     chapter_id: 74
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, C2, Gerechte Verteilung der Erwerbsarbeit"
+
+  -  id: 148
+     chapter_id: 74
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, C2, Gerechte Verteilung der Erwerbsarbeit"
+
+  -  id: 149
+     chapter_id: 75
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, C3, Förderung ökologisches Verhalten der MitarbeiterInnen"
+
+  -  id: 150
+     chapter_id: 75
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, C3, Förderung ökologisches Verhalten der MitarbeiterInnen"
+
+  -  id: 151
+     chapter_id: 76
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, C4, Gerechte Verteilung des Einkommens"
+
+  -  id: 152
+     chapter_id: 76
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, C4, Gerechte Verteilung des Einkommens"
+
+  -  id: 153
+     chapter_id: 77
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, C5, Innerbetriebliche Demokratie und Transparenz"
+
+  -  id: 154
+     chapter_id: 77
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, C5, Innerbetriebliche Demokratie und Transparenz"
+
+  -  id: 155
+     chapter_id: 78
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, D1, Ethisches Verkaufen"
+
+  -  id: 156
+     chapter_id: 78
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, D1, Ethisches Verkaufen"
+
+  -  id: 157
+     chapter_id: 79
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, D2, Solidarität mit Mitunternehmen"
+
+  -  id: 158
+     chapter_id: 79
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, D2, Solidarität mit Mitunternehmen"
+
+  -  id: 159
+     chapter_id: 80
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, D3, Ökologische Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 160
+     chapter_id: 80
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, D3, Ökologische Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 161
+     chapter_id: 81
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, D4, Soziale Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 162
+     chapter_id: 81
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, D4, Soziale Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 163
+     chapter_id: 82
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, D5, Erhöhung der sozialen und ökologischen Branchenstandards"
+
+  -  id: 164
+     chapter_id: 82
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, D5, Erhöhung der sozialen und ökologischen Branchenstandards"
+
+  -  id: 165
+     chapter_id: 83
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, E1, Gesellschaftliche Wirkung der Produkte"
+
+  -  id: 166
+     chapter_id: 83
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, E1, Gesellschaftliche Wirkung der Produkte"
+
+  -  id: 167
+     chapter_id: 84
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, E2, Beitrag zum Gemeinwesen"
+
+  -  id: 168
+     chapter_id: 84
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, E2, Beitrag zum Gemeinwesen"
+
+  -  id: 169
+     chapter_id: 85
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, E3, Reduktion ökologische Auswirkungen"
+
+  -  id: 170
+     chapter_id: 85
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, E3, Reduktion ökologische Auswirkungen"
+
+  -  id: 171
+     chapter_id: 86
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, E4, Minimierung der Gewinnausschüttung an Externe"
+
+  -  id: 172
+     chapter_id: 86
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, E4, Minimierung der Gewinnausschüttung an Externe"
+
+  -  id: 173
+     chapter_id: 87
+     order: 1
+     description: "1st paragraph describing solution for Modelabel m41, E5, Gesellschaftliche Transparenz und Mitbestimmung"
+
+  -  id: 174
+     chapter_id: 87
+     order: 2
+     description: "2nd paragraph describing solution for Modelabel m41, E5, Gesellschaftliche Transparenz und Mitbestimmung"
+
+  -  id: 175
+     chapter_id: 88
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, A1, Ethisches Beschaffungsmanagement"
+
+  -  id: 176
+     chapter_id: 88
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, A1, Ethisches Beschaffungsmanagement"
+
+  -  id: 177
+     chapter_id: 89
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, B1, Ethisches Finanzmanagement"
+
+  -  id: 178
+     chapter_id: 89
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, B1, Ethisches Finanzmanagement"
+
+  -  id: 179
+     chapter_id: 90
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, C1, Arbeitsplatzqualität"
+
+  -  id: 180
+     chapter_id: 90
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, C1, Arbeitsplatzqualität"
+
+  -  id: 181
+     chapter_id: 91
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, C2, Gerechte Verteilung der Erwerbsarbeit"
+
+  -  id: 182
+     chapter_id: 91
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, C2, Gerechte Verteilung der Erwerbsarbeit"
+
+  -  id: 183
+     chapter_id: 92
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, C3, Förderung ökologisches Verhalten der MitarbeiterInnen"
+
+  -  id: 184
+     chapter_id: 92
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, C3, Förderung ökologisches Verhalten der MitarbeiterInnen"
+
+  -  id: 185
+     chapter_id: 93
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, C4, Gerechte Verteilung des Einkommens"
+
+  -  id: 186
+     chapter_id: 93
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, C4, Gerechte Verteilung des Einkommens"
+
+  -  id: 187
+     chapter_id: 94
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, C5, Innerbetriebliche Demokratie und Transparenz"
+
+  -  id: 188
+     chapter_id: 94
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, C5, Innerbetriebliche Demokratie und Transparenz"
+
+  -  id: 189
+     chapter_id: 95
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, D1, Ethisches Verkaufen"
+
+  -  id: 190
+     chapter_id: 95
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, D1, Ethisches Verkaufen"
+
+  -  id: 191
+     chapter_id: 96
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, D2, Solidarität mit Mitunternehmen"
+
+  -  id: 192
+     chapter_id: 96
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, D2, Solidarität mit Mitunternehmen"
+
+  -  id: 193
+     chapter_id: 97
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, D3, Ökologische Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 194
+     chapter_id: 97
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, D3, Ökologische Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 195
+     chapter_id: 98
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, D4, Soziale Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 196
+     chapter_id: 98
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, D4, Soziale Gestaltung der Produkte und Dienstleistungen"
+
+  -  id: 197
+     chapter_id: 99
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, D5, Erhöhung der sozialen und ökologischen Branchenstandards"
+
+  -  id: 198
+     chapter_id: 99
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, D5, Erhöhung der sozialen und ökologischen Branchenstandards"
+
+  -  id: 199
+     chapter_id: 100
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, E1, Gesellschaftliche Wirkung der Produkte"
+
+  -  id: 200
+     chapter_id: 100
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, E1, Gesellschaftliche Wirkung der Produkte"
+
+  -  id: 201
+     chapter_id: 101
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, E2, Beitrag zum Gemeinwesen"
+
+  -  id: 202
+     chapter_id: 101
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, E2, Beitrag zum Gemeinwesen"
+
+  -  id: 203
+     chapter_id: 102
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, E3, Reduktion ökologische Auswirkungen"
+
+  -  id: 204
+     chapter_id: 102
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, E3, Reduktion ökologische Auswirkungen"
+
+  -  id: 205
+     chapter_id: 103
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, E4, Minimierung der Gewinnausschüttung an Externe"
+
+  -  id: 206
+     chapter_id: 103
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, E4, Minimierung der Gewinnausschüttung an Externe"
+
+  -  id: 207
+     chapter_id: 104
+     order: 1
+     description: "1st paragraph describing solution for Consultancy m41, E5, Gesellschaftliche Transparenz und Mitbestimmung"
+
+  -  id: 208
+     chapter_id: 104
+     order: 2
+     description: "2nd paragraph describing solution for Consultancy m41, E5, Gesellschaftliche Transparenz und Mitbestimmung"
+

@@ -2403,10 +2403,1627 @@ ratings:
      title: Complete beginner
      ratio: 0.0
 
-user_ratings:
+user_ratings: 
   -  id: 1
      user_id: 1
-     rateable_type: Chapter
-     rateable_id: 3
+     rateable_id: 73
+     rateable_type: Chapter 
+     rating_id: 4
+
+  -  id: 2
+     user_id: 1
+     rateable_id: 88
+     rateable_type: Chapter 
+     rating_id: 3
+
+  -  id: 3
+     user_id: 1
+     rateable_id: 59
+     rateable_type: Chapter 
+     rating_id: 3
+     points: 3
+
+  -  id: 4
+     user_id: 1
+     rateable_id: 6
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 5
+     user_id: 1
+     rateable_id: 31
+     rateable_type: Chapter 
+     rating_id: 4
+
+  -  id: 6
+     user_id: 1
+     rateable_id: 11
+     rateable_type: Chapter 
+     rating_id: 1
+
+  -  id: 7
+     user_id: 1
+     rateable_id: 56
+     rateable_type: Chapter 
+     points: 22
+
+  -  id: 8
+     user_id: 1
+     rateable_id: 90
+     rateable_type: Chapter 
+     rating_id: 5
+
+  -  id: 9
+     user_id: 1
+     rateable_id: 101
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 10
+     user_id: 1
+     rateable_id: 35
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 11
+     user_id: 1
+     rateable_id: 99
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 12
+     user_id: 1
+     rateable_id: 18
+     rateable_type: Chapter 
+     points: 36
+
+  -  id: 13
+     user_id: 1
+     rateable_id: 81
+     rateable_type: Chapter 
+     rating_id: 4
+     points: 4
+
+  -  id: 14
+     user_id: 1
+     rateable_id: 54
+     rateable_type: Chapter 
+     rating_id: 3
+
+  -  id: 15
+     user_id: 1
+     rateable_id: 87
+     rateable_type: Chapter 
      rating_id: 2
+
+  -  id: 16
+     user_id: 1
+     rateable_id: 46
+     rateable_type: Chapter 
+     points: 90
+
+  -  id: 17
+     user_id: 1
+     rateable_id: 17
+     rateable_type: Chapter 
+     rating_id: 4
+
+  -  id: 18
+     user_id: 1
+     rateable_id: 91
+     rateable_type: Chapter 
+     points: 12
+
+  -  id: 19
+     user_id: 1
+     rateable_id: 40
+     rateable_type: Chapter 
+     points: 25
+
+  -  id: 20
+     user_id: 1
+     rateable_id: 95
+     rateable_type: Chapter 
+     rating_id: 2
+     points: 2
+
+  -  id: 21
+     user_id: 1
+     rateable_id: 72
+     rateable_type: Chapter 
+     points: 0
+
+  -  id: 22
+     user_id: 1
+     rateable_id: 19
+     rateable_type: Chapter 
+     rating_id: 3
+
+  -  id: 23
+     user_id: 1
+     rateable_id: 13
+     rateable_type: Chapter 
+     rating_id: 2
+
+  -  id: 24
+     user_id: 1
+     rateable_id: 68
+     rateable_type: Chapter 
+     rating_id: 4
+     points: 4
+
+  -  id: 25
+     user_id: 1
+     rateable_id: 86
+     rateable_type: Chapter 
+     rating_id: 1
+
+  -  id: 26
+     user_id: 1
+     rateable_id: 28
+     rateable_type: Chapter 
+     rating_id: 3
+
+  -  id: 27
+     user_id: 1
+     rateable_id: 97
+     rateable_type: Chapter 
+     rating_id: 1
+     points: 1
+
+  -  id: 28
+     user_id: 1
+     rateable_id: 29
+     rateable_type: Chapter 
+     rating_id: 2
+
+  -  id: 29
+     user_id: 1
+     rateable_id: 98
+     rateable_type: Chapter 
+     rating_id: 3
+
+  -  id: 30
+     user_id: 1
+     rateable_id: 62
+     rateable_type: Chapter 
+     rating_id: 3
+
+  -  id: 31
+     user_id: 1
+     rateable_id: 102
+     rateable_type: Chapter 
+     rating_id: 1
+
+  -  id: 32
+     user_id: 1
+     rateable_id: 48
+     rateable_type: Chapter 
+     rating_id: 5
+
+  -  id: 33
+     user_id: 1
+     rateable_id: 12
+     rateable_type: Chapter 
+     points: 0
+
+  -  id: 34
+     user_id: 1
+     rateable_id: 42
+     rateable_type: Chapter 
+     rating_id: 2
+     points: 2
+
+  -  id: 35
+     user_id: 1
+     rateable_id: 51
+     rateable_type: Chapter 
+     points: 0
+
+  -  id: 36
+     user_id: 1
+     rateable_id: 1
+     rateable_type: Chapter 
+     points: 100
+
+  -  id: 37
+     user_id: 1
+     rateable_id: 70
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 38
+     user_id: 1
+     rateable_id: 57
+     rateable_type: Chapter 
+     points: 0
+
+  -  id: 39
+     user_id: 1
+     rateable_id: 63
+     rateable_type: Chapter 
+     rating_id: 2
+     points: 2
+
+  -  id: 40
+     user_id: 1
+     rateable_id: 100
+     rateable_type: Chapter 
+     points: 18
+
+  -  id: 41
+     user_id: 1
+     rateable_id: 20
+     rateable_type: Chapter 
+     rating_id: 1
+
+  -  id: 42
+     user_id: 1
+     rateable_id: 55
+     rateable_type: Chapter 
+     rating_id: 5
+
+  -  id: 43
+     user_id: 1
+     rateable_id: 14
+     rateable_type: Chapter 
+     rating_id: 2
+
+  -  id: 44
+     user_id: 1
+     rateable_id: 69
+     rateable_type: Chapter 
+     points: 45
+
+  -  id: 45
+     user_id: 1
+     rateable_id: 83
+     rateable_type: Chapter 
+     points: 90
+
+  -  id: 46
+     user_id: 1
+     rateable_id: 38
+     rateable_type: Chapter 
+     rating_id: 2
+
+  -  id: 47
+     user_id: 1
+     rateable_id: 9
+     rateable_type: Chapter 
+     points: 0
+
+  -  id: 48
+     user_id: 1
+     rateable_id: 26
+     rateable_type: Chapter 
+     rating_id: 2
+
+  -  id: 49
+     user_id: 1
+     rateable_id: 43
+     rateable_type: Chapter 
+     rating_id: 3
+
+  -  id: 50
+     user_id: 1
+     rateable_id: 5
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 51
+     user_id: 1
+     rateable_id: 2
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 52
+     user_id: 1
+     rateable_id: 52
+     rateable_type: Chapter 
+     rating_id: 4
+
+  -  id: 53
+     user_id: 2
+     rateable_id: 92
+     rateable_type: Chapter 
+     points: 16
+
+  -  id: 54
+     user_id: 2
+     rateable_id: 11
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 55
+     user_id: 2
+     rateable_id: 71
+     rateable_type: Chapter 
+     points: 90
+
+  -  id: 56
+     user_id: 2
+     rateable_id: 48
+     rateable_type: Chapter 
+     rating_id: 1
+     points: 1
+
+  -  id: 57
+     user_id: 2
+     rateable_id: 21
+     rateable_type: Chapter 
+     rating_id: 3
+
+  -  id: 58
+     user_id: 2
+     rateable_id: 35
+     rateable_type: Chapter 
+     points: 0
+
+  -  id: 59
+     user_id: 2
+     rateable_id: 33
+     rateable_type: Chapter 
+     points: 16
+
+  -  id: 60
+     user_id: 2
+     rateable_id: 45
+     rateable_type: Chapter 
+     rating_id: 3
+
+  -  id: 61
+     user_id: 2
+     rateable_id: 1
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 62
+     user_id: 2
+     rateable_id: 12
+     rateable_type: Chapter 
+     points: 8
+
+  -  id: 63
+     user_id: 2
+     rateable_id: 39
+     rateable_type: Chapter 
+     rating_id: 4
+     points: 4
+
+  -  id: 64
+     user_id: 2
+     rateable_id: 63
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 65
+     user_id: 2
+     rateable_id: 91
+     rateable_type: Chapter 
+     points: 40
+
+  -  id: 66
+     user_id: 2
+     rateable_id: 52
+     rateable_type: Chapter 
+     points: 0
+
+  -  id: 67
+     user_id: 2
+     rateable_id: 13
+     rateable_type: Chapter 
+     points: 11
+
+  -  id: 68
+     user_id: 2
+     rateable_id: 83
+     rateable_type: Chapter 
      points: 20
+
+  -  id: 69
+     user_id: 2
+     rateable_id: 72
+     rateable_type: Chapter 
+     rating_id: 1
+
+  -  id: 70
+     user_id: 2
+     rateable_id: 76
+     rateable_type: Chapter 
+     rating_id: 1
+     points: 1
+
+  -  id: 71
+     user_id: 2
+     rateable_id: 90
+     rateable_type: Chapter 
+     rating_id: 4
+
+  -  id: 72
+     user_id: 2
+     rateable_id: 95
+     rateable_type: Chapter 
+     rating_id: 1
+     points: 1
+
+  -  id: 73
+     user_id: 2
+     rateable_id: 98
+     rateable_type: Chapter 
+     rating_id: 3
+     points: 3
+
+  -  id: 74
+     user_id: 2
+     rateable_id: 50
+     rateable_type: Chapter 
+     points: 0
+
+  -  id: 75
+     user_id: 2
+     rateable_id: 55
+     rateable_type: Chapter 
+     rating_id: 3
+     points: 3
+
+  -  id: 76
+     user_id: 2
+     rateable_id: 89
+     rateable_type: Chapter 
+     rating_id: 4
+     points: 4
+
+  -  id: 77
+     user_id: 2
+     rateable_id: 8
+     rateable_type: Chapter 
+     rating_id: 3
+     points: 3
+
+  -  id: 78
+     user_id: 2
+     rateable_id: 34
+     rateable_type: Chapter 
+     rating_id: 2
+
+  -  id: 79
+     user_id: 2
+     rateable_id: 101
+     rateable_type: Chapter 
+     rating_id: 2
+     points: 2
+
+  -  id: 80
+     user_id: 2
+     rateable_id: 88
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 81
+     user_id: 2
+     rateable_id: 70
+     rateable_type: Chapter 
+     rating_id: 1
+     points: 1
+
+  -  id: 82
+     user_id: 2
+     rateable_id: 99
+     rateable_type: Chapter 
+     rating_id: 2
+     points: 2
+
+  -  id: 83
+     user_id: 2
+     rateable_id: 47
+     rateable_type: Chapter 
+     points: 30
+
+  -  id: 84
+     user_id: 2
+     rateable_id: 85
+     rateable_type: Chapter 
+     points: 0
+
+  -  id: 85
+     user_id: 2
+     rateable_id: 56
+     rateable_type: Chapter 
+     rating_id: 3
+
+  -  id: 86
+     user_id: 2
+     rateable_id: 31
+     rateable_type: Chapter 
+     points: 13
+
+  -  id: 87
+     user_id: 2
+     rateable_id: 80
+     rateable_type: Chapter 
+     rating_id: 2
+     points: 2
+
+  -  id: 88
+     user_id: 2
+     rateable_id: 75
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 89
+     user_id: 2
+     rateable_id: 20
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 90
+     user_id: 2
+     rateable_id: 49
+     rateable_type: Chapter 
+     rating_id: 2
+     points: 2
+
+  -  id: 91
+     user_id: 2
+     rateable_id: 44
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 92
+     user_id: 2
+     rateable_id: 2
+     rateable_type: Chapter 
+     rating_id: 4
+     points: 4
+
+  -  id: 93
+     user_id: 2
+     rateable_id: 22
+     rateable_type: Chapter 
+     points: 10
+
+  -  id: 94
+     user_id: 2
+     rateable_id: 93
+     rateable_type: Chapter 
+     rating_id: 2
+
+  -  id: 95
+     user_id: 2
+     rateable_id: 25
+     rateable_type: Chapter 
+     points: 40
+
+  -  id: 96
+     user_id: 2
+     rateable_id: 14
+     rateable_type: Chapter 
+     rating_id: 1
+     points: 1
+
+  -  id: 97
+     user_id: 2
+     rateable_id: 66
+     rateable_type: Chapter 
+     rating_id: 1
+
+  -  id: 98
+     user_id: 2
+     rateable_id: 82
+     rateable_type: Chapter 
+     rating_id: 1
+     points: 1
+
+  -  id: 99
+     user_id: 2
+     rateable_id: 46
+     rateable_type: Chapter 
+     rating_id: 2
+     points: 2
+
+  -  id: 100
+     user_id: 2
+     rateable_id: 26
+     rateable_type: Chapter 
+     points: 60
+
+  -  id: 101
+     user_id: 2
+     rateable_id: 51
+     rateable_type: Chapter 
+     rating_id: 4
+
+  -  id: 102
+     user_id: 2
+     rateable_id: 102
+     rateable_type: Chapter 
+     points: 0
+
+  -  id: 103
+     user_id: 2
+     rateable_id: 104
+     rateable_type: Chapter 
+     rating_id: 5
+     points: 5
+
+  -  id: 104
+     user_id: 2
+     rateable_id: 60
+     rateable_type: Chapter 
+     rating_id: 3
+
+  -  id: 105
+     user_id: 1
+     rateable_id: 94
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 106
+     user_id: 1
+     rateable_id: 156
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 107
+     user_id: 1
+     rateable_id: 103
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 108
+     user_id: 1
+     rateable_id: 185
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 109
+     user_id: 1
+     rateable_id: 85
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 110
+     user_id: 1
+     rateable_id: 200
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 111
+     user_id: 1
+     rateable_id: 78
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 112
+     user_id: 1
+     rateable_id: 100
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 113
+     user_id: 1
+     rateable_id: 179
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 114
+     user_id: 1
+     rateable_id: 56
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 115
+     user_id: 1
+     rateable_id: 40
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 116
+     user_id: 1
+     rateable_id: 198
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 117
+     user_id: 1
+     rateable_id: 80
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 118
+     user_id: 1
+     rateable_id: 199
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 119
+     user_id: 1
+     rateable_id: 105
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 120
+     user_id: 1
+     rateable_id: 132
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 121
+     user_id: 1
+     rateable_id: 111
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 122
+     user_id: 1
+     rateable_id: 79
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 123
+     user_id: 1
+     rateable_id: 107
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 124
+     user_id: 1
+     rateable_id: 136
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 125
+     user_id: 1
+     rateable_id: 147
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 126
+     user_id: 1
+     rateable_id: 139
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 127
+     user_id: 1
+     rateable_id: 33
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 128
+     user_id: 1
+     rateable_id: 116
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 129
+     user_id: 1
+     rateable_id: 124
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 130
+     user_id: 1
+     rateable_id: 30
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 131
+     user_id: 1
+     rateable_id: 142
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 132
+     user_id: 1
+     rateable_id: 168
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 133
+     user_id: 1
+     rateable_id: 46
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 134
+     user_id: 1
+     rateable_id: 58
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 135
+     user_id: 1
+     rateable_id: 51
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 136
+     user_id: 1
+     rateable_id: 145
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 137
+     user_id: 1
+     rateable_id: 97
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 138
+     user_id: 1
+     rateable_id: 175
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 139
+     user_id: 1
+     rateable_id: 60
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 140
+     user_id: 1
+     rateable_id: 41
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 141
+     user_id: 1
+     rateable_id: 187
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 142
+     user_id: 1
+     rateable_id: 197
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 143
+     user_id: 1
+     rateable_id: 151
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 144
+     user_id: 1
+     rateable_id: 59
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 145
+     user_id: 1
+     rateable_id: 76
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 146
+     user_id: 1
+     rateable_id: 181
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 147
+     user_id: 1
+     rateable_id: 95
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 148
+     user_id: 1
+     rateable_id: 36
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 149
+     user_id: 1
+     rateable_id: 92
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 150
+     user_id: 1
+     rateable_id: 189
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 151
+     user_id: 1
+     rateable_id: 125
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 152
+     user_id: 1
+     rateable_id: 27
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 153
+     user_id: 1
+     rateable_id: 169
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 154
+     user_id: 1
+     rateable_id: 45
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 155
+     user_id: 1
+     rateable_id: 6
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 156
+     user_id: 1
+     rateable_id: 9
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 157
+     user_id: 1
+     rateable_id: 203
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 158
+     user_id: 1
+     rateable_id: 26
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 159
+     user_id: 1
+     rateable_id: 158
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 160
+     user_id: 1
+     rateable_id: 91
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 161
+     user_id: 1
+     rateable_id: 22
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 162
+     user_id: 1
+     rateable_id: 170
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 163
+     user_id: 1
+     rateable_id: 25
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 164
+     user_id: 1
+     rateable_id: 106
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 165
+     user_id: 1
+     rateable_id: 140
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 166
+     user_id: 1
+     rateable_id: 82
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 167
+     user_id: 1
+     rateable_id: 17
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 168
+     user_id: 1
+     rateable_id: 155
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 169
+     user_id: 1
+     rateable_id: 66
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 170
+     user_id: 1
+     rateable_id: 54
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 171
+     user_id: 1
+     rateable_id: 49
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 172
+     user_id: 1
+     rateable_id: 149
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 173
+     user_id: 1
+     rateable_id: 65
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 174
+     user_id: 1
+     rateable_id: 123
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 175
+     user_id: 1
+     rateable_id: 32
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 176
+     user_id: 1
+     rateable_id: 118
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 177
+     user_id: 1
+     rateable_id: 42
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 178
+     user_id: 1
+     rateable_id: 121
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 179
+     user_id: 1
+     rateable_id: 50
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 180
+     user_id: 1
+     rateable_id: 191
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 181
+     user_id: 1
+     rateable_id: 127
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 182
+     user_id: 1
+     rateable_id: 196
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 183
+     user_id: 1
+     rateable_id: 48
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 184
+     user_id: 1
+     rateable_id: 162
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 185
+     user_id: 2
+     rateable_id: 94
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 186
+     user_id: 2
+     rateable_id: 156
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 187
+     user_id: 2
+     rateable_id: 103
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 188
+     user_id: 2
+     rateable_id: 185
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 189
+     user_id: 2
+     rateable_id: 85
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 190
+     user_id: 2
+     rateable_id: 200
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 191
+     user_id: 2
+     rateable_id: 78
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 192
+     user_id: 2
+     rateable_id: 100
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 193
+     user_id: 2
+     rateable_id: 179
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 194
+     user_id: 2
+     rateable_id: 56
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 195
+     user_id: 2
+     rateable_id: 40
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 196
+     user_id: 2
+     rateable_id: 198
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 197
+     user_id: 2
+     rateable_id: 80
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 198
+     user_id: 2
+     rateable_id: 199
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 199
+     user_id: 2
+     rateable_id: 105
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 200
+     user_id: 2
+     rateable_id: 132
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 201
+     user_id: 2
+     rateable_id: 111
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 202
+     user_id: 2
+     rateable_id: 79
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 203
+     user_id: 2
+     rateable_id: 107
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 204
+     user_id: 2
+     rateable_id: 136
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 205
+     user_id: 2
+     rateable_id: 147
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 206
+     user_id: 2
+     rateable_id: 139
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 207
+     user_id: 2
+     rateable_id: 33
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 208
+     user_id: 2
+     rateable_id: 116
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 209
+     user_id: 2
+     rateable_id: 124
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 210
+     user_id: 2
+     rateable_id: 30
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 211
+     user_id: 2
+     rateable_id: 142
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 212
+     user_id: 2
+     rateable_id: 168
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 213
+     user_id: 2
+     rateable_id: 46
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 214
+     user_id: 2
+     rateable_id: 58
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 215
+     user_id: 2
+     rateable_id: 51
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 216
+     user_id: 2
+     rateable_id: 145
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 217
+     user_id: 2
+     rateable_id: 97
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 218
+     user_id: 2
+     rateable_id: 175
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 219
+     user_id: 2
+     rateable_id: 60
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 220
+     user_id: 2
+     rateable_id: 41
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 221
+     user_id: 2
+     rateable_id: 187
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 222
+     user_id: 2
+     rateable_id: 197
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 223
+     user_id: 2
+     rateable_id: 151
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 224
+     user_id: 2
+     rateable_id: 59
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 225
+     user_id: 2
+     rateable_id: 76
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 226
+     user_id: 2
+     rateable_id: 181
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 227
+     user_id: 2
+     rateable_id: 95
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 228
+     user_id: 2
+     rateable_id: 36
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 229
+     user_id: 2
+     rateable_id: 92
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 230
+     user_id: 2
+     rateable_id: 189
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 231
+     user_id: 2
+     rateable_id: 125
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 232
+     user_id: 2
+     rateable_id: 27
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 233
+     user_id: 2
+     rateable_id: 169
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 234
+     user_id: 2
+     rateable_id: 45
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 235
+     user_id: 2
+     rateable_id: 6
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 236
+     user_id: 2
+     rateable_id: 9
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 237
+     user_id: 2
+     rateable_id: 203
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 238
+     user_id: 2
+     rateable_id: 26
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 239
+     user_id: 2
+     rateable_id: 158
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 240
+     user_id: 2
+     rateable_id: 91
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 241
+     user_id: 2
+     rateable_id: 22
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 242
+     user_id: 2
+     rateable_id: 170
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 243
+     user_id: 2
+     rateable_id: 25
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 244
+     user_id: 2
+     rateable_id: 106
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 245
+     user_id: 2
+     rateable_id: 140
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 246
+     user_id: 2
+     rateable_id: 82
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 247
+     user_id: 2
+     rateable_id: 17
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 248
+     user_id: 2
+     rateable_id: 155
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 249
+     user_id: 2
+     rateable_id: 66
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 250
+     user_id: 2
+     rateable_id: 54
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 251
+     user_id: 2
+     rateable_id: 49
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 252
+     user_id: 2
+     rateable_id: 149
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 253
+     user_id: 2
+     rateable_id: 65
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 254
+     user_id: 2
+     rateable_id: 123
+     rateable_type: Solution 
+     rating_id: 1
+
+  -  id: 255
+     user_id: 2
+     rateable_id: 32
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 256
+     user_id: 2
+     rateable_id: 118
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 257
+     user_id: 2
+     rateable_id: 42
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 258
+     user_id: 2
+     rateable_id: 121
+     rateable_type: Solution 
+     rating_id: 2
+
+  -  id: 259
+     user_id: 2
+     rateable_id: 50
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 260
+     user_id: 2
+     rateable_id: 191
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 261
+     user_id: 2
+     rateable_id: 127
+     rateable_type: Solution 
+     rating_id: 5
+
+  -  id: 262
+     user_id: 2
+     rateable_id: 196
+     rateable_type: Solution 
+     rating_id: 3
+
+  -  id: 263
+     user_id: 2
+     rateable_id: 48
+     rateable_type: Solution 
+     rating_id: 4
+
+  -  id: 264
+     user_id: 2
+     rateable_id: 162
+     rateable_type: Solution 
+     rating_id: 1
+

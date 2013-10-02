@@ -2375,3 +2375,38 @@ solutions:
      order: 2
      description: "2nd paragraph describing solution for Consultancy m41, E5, Gesellschaftliche Transparenz und Mitbestimmung"
 
+users:
+  -  id: 1
+     name: Hannah
+
+  -  id: 2
+     name: Christian
+
+ratings:
+  -  id: 1
+     title: Leader
+     ratio: 1
+
+  -  id: 2
+     title: Advanced
+     ratio: 0.75
+
+  -  id: 3
+     title: Performer
+     ratio: 0.5
+
+  -  id: 4
+     title: Beginner
+     ratio: 0.25 
+
+  -  id: 5
+     title: Complete beginner
+     ratio: 0.0
+
+user_ratings:
+  -  id: 1
+     user_id: 1
+     rateable_type: Chapter
+     rateable_id: 3
+     rating_id: 2
+     points: 20

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131001193508) do
+ActiveRecord::Schema.define(version: 20131002070451) do
 
   create_table "chapters", force: true do |t|
     t.integer  "report_id"
@@ -66,6 +66,13 @@ ActiveRecord::Schema.define(version: 20131001193508) do
     t.datetime "updated_at"
   end
 
+  create_table "ratings", force: true do |t|
+    t.string   "title"
+    t.float    "ratio"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "reports", force: true do |t|
     t.string   "title"
     t.string   "document_url"
@@ -90,6 +97,25 @@ ActiveRecord::Schema.define(version: 20131001193508) do
 
   create_table "stakeholders", force: true do |t|
     t.string   "title"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "user_ratings", force: true do |t|
+    t.integer  "user_id"
+    t.integer  "rateable_id"
+    t.string   "rateable_type"
+    t.integer  "rating_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.integer  "points"
+  end
+
+  add_index "user_ratings", ["rating_id"], name: "index_user_ratings_on_rating_id"
+  add_index "user_ratings", ["user_id"], name: "index_user_ratings_on_user_id"
+
+  create_table "users", force: true do |t|
+    t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

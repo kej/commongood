@@ -1,0 +1,33 @@
+<h1>Listing user_ratings</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>User</th>
+      <th>Rateable</th>
+      <th>Rateable type</th>
+      <th>Rating</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @user_ratings.each do |user_rating| %>
+      <tr>
+        <td><%= user_rating.user %></td>
+        <td><%= user_rating.rateable_id %></td>
+        <td><%= user_rating.rateable_type %></td>
+        <td><%= user_rating.rating %></td>
+        <td><%= link_to 'Show', user_rating %></td>
+        <td><%= link_to 'Edit', edit_user_rating_path(user_rating) %></td>
+        <td><%= link_to 'Destroy', user_rating, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New User rating', new_user_rating_path %>

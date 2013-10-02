@@ -1,4 +1,10 @@
 Commongood::Application.routes.draw do
+  resources :user_ratings
+
+  resources :ratings
+
+  resources :users
+
   resources :solutions
 
   resources :chapters

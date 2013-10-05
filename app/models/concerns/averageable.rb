@@ -14,4 +14,10 @@ module Averageable
 		return mean_ratio
 	end
 
+	# can't be coerced to string???
+	def ratings_summary
+		mean_calculated_ratio 
+	end
+
+
 end

@@ -4,7 +4,7 @@ class SolutionsController < ApplicationController
   # GET /solutions
   # GET /solutions.json
   def index
-    @solutions = Solution.all
+    @solutions = Solution.all.sort! { |a,b| b.mean_calculated_ratio <=> a.mean_calculated_ratio }
   end
 
   # GET /solutions/1

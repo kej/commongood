@@ -3,11 +3,12 @@
 <table>
   <thead>
     <tr>
-      <th><%= link_to 'Values', values_path %></th>
-      <th><%= link_to 'Stakeholder', stakeholders_path %></th>
-      <th>Solution in Chapter</th>
-      <th>Chapter in Report</th>
-      <th>Ratings</th>
+      <th>Description</th>
+      <th>Chapter</th>
+      <th>Order</th>
+      <th></th>
+      <th></th>
+      <th></th>
       <th></th>
       <th></th>
     </tr>
@@ -15,13 +16,16 @@
 
   <tbody>
     <% @solutions.each do |solution| %>
+    <% x = solution.summary %>
       <tr>
-        <td><%= solution.indicator.value_summary %></td>
-        <td><%= solution.indicator.stakeholder_summary %></td>
-        <td><%= link_to solution.summary, solution %></td>
-        <td><%= link_to solution.chapter.summary, solution.chapter %></td>
+        <td><%= solution.description %></td>
+        <td><%= solution.chapter %></td>
+        <td><%= solution.order %></td>
+        <td><%= link_to 'Show', solution %></td>
+        <td><%= link_to 'Edit', edit_solution_path(solution) %></td>
+        <td><%= link_to 'Destroy', solution, method: :delete, data: { confirm: 'Are you sure?' } %></td> 
         <td><%= solution.mean_calculated_ratio  %> (<%= solution.number_of_ratings  %>)</td>
-        <td><%= link_to 'Destroy', solution, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td><%= link_to "hello world", solution.chapter %></td>
       </tr>
     <% end %>
   </tbody>

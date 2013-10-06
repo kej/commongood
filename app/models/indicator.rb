@@ -6,7 +6,7 @@ class Indicator < ActiveRecord::Base
   has_many   :stakeholders, through: :indicator_stakeholders
 
   def summary
- 	short + ': ' + title.truncate(12, :omission => '')
+ 	short  + ': ' + title.truncate(12, :omission => '')
   end
 
   def value_summary

@@ -1,19 +1,206 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
-one:
-  short: MyString
-  title: MyString
-  matrix_id: 
-  max_points: 1
+A1_m40:
+  short: A1
+  title: Ethisches Beschaffungsmanagement
+  matrix: m40
+  max_points: 90
 
-two:
-  short: MyString
-  title: MyString
-  matrix_id: 
-  max_points: 1
+B1_m40:
+  short: B1
+  title: Ethisches Finanzmanagement
+  matrix: m40
+  max_points: 30
 
-a1_m3:
-  short: 'A1'
-  title: 'Ethisches Beschaffungsmanagement'
-  matrix: m3
-  max_points: 100
+C1_m40:
+  short: C1
+  title: Arbeitsplatzqualität
+  matrix: m40
+  max_points: 90
+
+C2_m40:
+  short: C2
+  title: Gerechte Verteilung der Erwerbsarbeit
+  matrix: m40
+  max_points: 50
+
+C3_m40:
+  short: C3
+  title: Förderung ökologisches Verhalten der MitarbeiterInnen
+  matrix: m40
+  max_points: 30
+
+C4_m40:
+  short: C4
+  title: Gerechte Verteilung des Einkommens
+  matrix: m40
+  max_points: 60
+
+C5_m40:
+  short: C5
+  title: Innerbetriebliche Demokratie und Transparenz
+  matrix: m40
+  max_points: 90
+
+D1_m40:
+  short: D1
+  title: Ethisches Verkaufen
+  matrix: m40
+  max_points: 50
+
+D2_m40:
+  short: D2
+  title: Solidarität mit Mitunternehmen
+  matrix: m40
+  max_points: 70
+
+D3_m40:
+  short: D3
+  title: Ökologische Gestaltung der Produkte und Dienstleistungen
+  matrix: m40
+  max_points: 90
+
+D4_m40:
+  short: D4
+  title: Soziale Gestaltung der Produkte und Dienstleistungen
+  matrix: m40
+  max_points: 30
+
+D5_m40:
+  short: D5
+  title: Erhöhung der sozialen und ökologischen Branchenstandards
+  matrix: m40
+  max_points: 30
+
+E1_m40:
+  short: E1
+  title: Gesellschaftliche Wirkung der Produkte
+  matrix: m40
+  max_points: 90
+
+E2_m40:
+  short: E2
+  title: Beitrag zum Gemeinwesen
+  matrix: m40
+  max_points: 40
+
+E3_m40:
+  short: E3
+  title: Reduktion ökologische Auswirkungen
+  matrix: m40
+  max_points: 70
+
+E4_m40:
+  short: E4
+  title: Minimierung der Gewinnausschüttung an Externe
+  matrix: m40
+  max_points: 60
+
+E5_m40:
+  short: E5
+  title: Gesellschaftliche Transparenz und Mitbestimmung
+  matrix: m40
+  max_points: 30
+
+A1_m41:
+  short: A1
+  title: Ethisches Beschaffungsmanagement
+  matrix: m41
+  max_points: 90
+
+B1_m41:
+  short: B1
+  title: Ethisches Finanzmanagement
+  matrix: m41
+  max_points: 30
+
+C1_m41:
+  short: C1
+  title: Arbeitsplatzqualität
+  matrix: m41
+  max_points: 90
+
+C2_m41:
+  short: C2
+  title: Gerechte Verteilung der Erwerbsarbeit
+  matrix: m41
+  max_points: 50
+
+C3_m41:
+  short: C3
+  title: Förderung ökologisches Verhalten der MitarbeiterInnen
+  matrix: m41
+  max_points: 30
+
+C4_m41:
+  short: C4
+  title: Gerechte Verteilung des Einkommens
+  matrix: m41
+  max_points: 60
+
+C5_m41:
+  short: C5
+  title: Innerbetriebliche Demokratie und Transparenz
+  matrix: m41
+  max_points: 90
+
+D1_m41:
+  short: D1
+  title: Ethisches Verkaufen
+  matrix: m41
+  max_points: 50
+
+D2_m41:
+  short: D2
+  title: Solidarität mit Mitunternehmen
+  matrix: m41
+  max_points: 70
+
+D3_m41:
+  short: D3
+  title: Ökologische Gestaltung der Produkte und Dienstleistungen
+  matrix: m41
+  max_points: 90
+
+D4_m41:
+  short: D4
+  title: Soziale Gestaltung der Produkte und Dienstleistungen
+  matrix: m41
+  max_points: 30
+
+D5_m41:
+  short: D5
+  title: Erhöhung der sozialen und ökologischen Branchenstandards
+  matrix: m41
+  max_points: 30
+
+E1_m41:
+  short: E1
+  title: Gesellschaftliche Wirkung der Produkte
+  matrix: m41
+  max_points: 90
+
+E2_m41:
+  short: E2
+  title: Beitrag zum Gemeinwesen
+  matrix: m41
+  max_points: 40
+
+E3_m41:
+  short: E3
+  title: Reduktion ökologische Auswirkungen
+  matrix: m41
+  max_points: 70
+
+E4_m41:
+  short: E4
+  title: Minimierung der Gewinnausschüttung an Externe
+  matrix: m41
+  max_points: 60
+
+E5_m41:
+  short: E5
+  title: Gesellschaftliche Transparenz und Mitbestimmung
+  matrix: m41
+  max_points: 30
+

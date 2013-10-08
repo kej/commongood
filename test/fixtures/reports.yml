@@ -1,15 +1,29 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
-one:
-  title: MyString
-  document_url: MyString
-  company_id: 
-  industry: MyText
+Modelabel_m40:
+  title: Modelabel m40
+  document_url: Modelabel m40.pdf
+  company: Modelabel
+  industry: fashion
+  staff: 7.0
+
+Modelabel_m41:
+  title: Modelabel m41
+  document_url: Modelabel m41.pdf
+  company: Modelabel
+  industry: fashion
+  staff: 4.0
+
+Consultancy_m40:
+  title: Consultancy m40
+  document_url: Consultancy m40.pdf
+  company: Consultancy
+  industry: consulting
   staff: 1.5
 
-two:
-  title: MyString
-  document_url: MyString
-  company_id: 
-  industry: MyText
-  staff: 1.5
+Consultancy_m41:
+  title: Consultancy m41
+  document_url: Consultancy m41.pdf
+  company: Consultancy
+  industry: consulting
+  staff: 2.0

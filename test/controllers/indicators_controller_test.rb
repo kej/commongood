@@ -2,7 +2,7 @@ require 'test_helper'
 
 class IndicatorsControllerTest < ActionController::TestCase
   setup do
-    @indicator = indicators(:one)
+    @indicator = indicators(:A1_m40)
   end
 
   test "should get index" do

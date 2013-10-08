@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  report_id: 
+  report_id:  
   indicator_id: 
 
 two:
-  report_id: 
-  indicator_id: 
+  report: report one
+  indicator: one 

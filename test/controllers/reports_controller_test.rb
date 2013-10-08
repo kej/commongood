@@ -2,7 +2,7 @@ require 'test_helper'
 
 class ReportsControllerTest < ActionController::TestCase
   setup do
-    @report = reports(:one)
+    @report = reports(:Modelabel_m40)
   end
 
   test "should get index" do

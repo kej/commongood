@@ -6,7 +6,7 @@ class MatrixTest < ActiveSupport::TestCase
   # end
 
   test "matrix is not valid without a unique title" do 
-  	matrix = Matrix.new(title: matrices(:m3).title)
+  	matrix = Matrix.new(title: matrices(:m40).title)
     assert matrix.invalid?
     assert_equal ["has already been taken"], matrix.errors[:title] 
   end

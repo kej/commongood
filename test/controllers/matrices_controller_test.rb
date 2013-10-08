@@ -2,7 +2,7 @@ require 'test_helper'
 
 class MatricesControllerTest < ActionController::TestCase
   setup do
-    @matrix = matrices(:one)
+    @matrix = matrices(:m40)
   end
 
   test "should get index" do

@@ -1,7 +1,9 @@
 require 'test_helper'
 
 class ReportTest < ActiveSupport::TestCase
-  # test "the truth" do
-  #   assert true
-  # end
+
+  test "report title must not be empty" do report = Report.new
+    assert report.invalid?
+  end
+
 end

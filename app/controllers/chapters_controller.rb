@@ -5,15 +5,6 @@ class ChaptersController < ApplicationController
   # GET /chapters.json
   def index
     @chapters = Chapter.all
-    @indicator_hash = Hash.new 
-    @chapters.each do |chapter|
-      if chapter.indicator.blank?
-        @indicator_hash[chapter.id] = "no indicator"
-      else
-        @indicator_hash[chapter.id] = chapter.indicator.summary
-      end
-    end
-
   end
 
   # GET /chapters/1

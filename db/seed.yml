@@ -1,312 +1,312 @@
 indicators:
   -  id: 1
-     short: 'A1'
+     short: A1_m3
      title: 'Ethisches Beschaffungsmanagement'
      matrix_id: '1'
      max_points: 100
 
   -  id: 2
-     short: B1
+     short: B1_m3
      title: 'Ethisches Finanzmanagement'
      matrix_id: 1
      max_points: 20
 
   -  id: 3
-     short: C1
+     short: C1_m3
      title: 'Arbeitsplatzqualität'
      matrix_id: 1
      max_points: 60
 
   -  id: 4
-     short: C2
+     short: C2_m3
      title: 'Gerechte Verteilung des Arbeitsvolumens'
      matrix_id: 1
      max_points: 40
 
   -  id: 5
-     short: C3
+     short: C3_m3
      title: 'Fo/örderung ökologisches Verhalten der MitarbeiterInnen'
      matrix_id: 1
      max_points: 40
 
   -  id: 6
-     short: C4
+     short: C4_m3
      title: 'Gerechte Verteilung des Einkommens'
      matrix_id: 1
      max_points: 60
 
   -  id: 7
-     short: C5
+     short: C5_m3
      title: 'Gleichstellung / Inklusion Benachteiligter'
      matrix_id: 1
      max_points: 40
 
   -  id: 8
-     short: C6
+     short: C6_m3
      title: 'Innerbetriebliche Transparenz und Mitbestimmung'
      matrix_id: 1
      max_points: 100
 
   -  id: 9
-     short: D1
+     short: D1_m3
      title: 'Ethisches Verkaufen'
      matrix_id: 1
      max_points: 40
 
   -  id: 10
-     short: D2
+     short: D2_m3
      title: 'Solidarität mit Mitunternehmen'
      matrix_id: 1
      max_points: 80
 
   -  id: 11
-     short: D3
+     short: D3_m3
      title: 'Ökologische Gestaltung der Produkte und Dienstleistungen'
      matrix_id: 1
      max_points: 60
 
   -  id: 12
-     short: D4
+     short: D4_m3
      title: 'Soziale Gestaltung der Produkte und Dienstleistungen'
      matrix_id: 1
      max_points: 20
 
   -  id: 13
-     short: D5
+     short: D5_m3
      title: 'Erhöhung der sozialen und ökologischen Branchenstandards'
      matrix_id: 1
      max_points: 20
 
   -  id: 14
-     short: E1
+     short: E1_m3
      title: 'Gesellschaftliche Wirkung'
      matrix_id: 1
      max_points: 100
 
   -  id: 15
-     short: E2
+     short: E2_m3
      title: 'Beitrag zum Gemeinwesen'
      matrix_id: 1
      max_points: 40
 
   -  id: 16
-     short: E3
+     short: E3_m3
      title: 'Reduktion ökologische Auswirkungen'
      matrix_id: 1
      max_points: 100
 
   -  id: 17
-     short: E4
+     short: E4_m3
      title: 'Minimierung der Gewinnausschüttung an Externe'
      matrix_id: 1
      max_points: 40
 
   -  id: 18
-     short: E5
+     short: E5_m3
      title: 'Gesellschaftliche Transparenz und Mitbestimmung'
      matrix_id: 1
      max_points: 40
 
   -  id: 19
-     short: A1
+     short: A1_m40
      title: Ethisches Beschaffungsmanagement
      matrix_id: 2
      max_points: 90
 
   -  id: 20
-     short: B1
+     short: B1_m40
      title: 'Ethisches Finanzmanagement'
      matrix_id: 2
      max_points: 30
 
   -  id: 21
-     short: C1
+     short: C1_m40
      title: 'Arbeitsplatzqualität'
      matrix_id: 2
      max_points: 90
 
   -  id: 22
-     short: C2
+     short: C2_m40
      title: 'Gerechte Verteilung der Erwerbsarbeit'
      matrix_id: 2
      max_points: 50
 
   -  id: 23
-     short: C3
+     short: C3_m40
      title: 'Förderung ökologisches Verhalten der MitarbeiterInnen'
      matrix_id: 2
      max_points: 30
 
   -  id: 24
-     short: C4
+     short: C4_m40
      title: 'Gerechte Verteilung des Einkommens'
      matrix_id: 2
      max_points: 60
 
   -  id: 25
-     short: C5
+     short: C5_m40
      title: 'Innerbetriebliche Demokratie und Transparenz'
      matrix_id: 2
      max_points: 90
 
   -  id: 26
-     short: D1
+     short: D1_m40
      title: 'Ethisches Verkaufen'
      matrix_id: 2
      max_points: 50
 
   -  id: 27
-     short: D2
+     short: D2_m40
      title: 'Solidarität mit Mitunternehmen'
      matrix_id: 2
      max_points: 70
 
   -  id: 28
-     short: D3
+     short: D3_m40
      title: 'Ökologische Gestaltung der Produkte und Dienstleistungen'
      matrix_id: 2
      max_points: 90
 
   -  id: 29
-     short: D4
+     short: D4_m40
      title: 'Soziale Gestaltung der Produkte und Dienstleistungen'
      matrix_id: 2
      max_points: 30
 
   -  id: 30
-     short: D5
+     short: D5_m40
      title: 'Erhöhung der sozialen und ökologischen Branchenstandards'
      matrix_id: 2
      max_points: 30
 
   -  id: 31
-     short: E1
+     short: E1_m40
      title: 'Gesellschaftliche Wirkung der Produkte'
      matrix_id: 2
      max_points: 90
 
   -  id: 32
-     short: E2
+     short: E2_m40
      title: 'Beitrag zum Gemeinwesen'
      matrix_id: 2
      max_points: 40
 
   -  id: 33
-     short: E3
+     short: E3_m40
      title: 'Reduktion ökologische Auswirkungen'
      matrix_id: 2
      max_points: 70
 
   -  id: 34
-     short: E4
+     short: E4_m40
      title: 'Minimierung der Gewinnausschüttung an Externe'
      matrix_id: 2
      max_points: 60
 
   -  id: 35
-     short: E5
+     short: E5_m40
      title: 'Gesellschaftliche Transparenz und Mitbestimmung'
      matrix_id: 2
      max_points: 30
 
   -  id: 36
-     short: A1
+     short: A1_m41
      title: Ethisches Beschaffungsmanagement
      matrix_id: 3
      max_points: 90
 
   -  id: 37
-     short: B1
+     short: B1_m41
      title: 'Ethisches Finanzmanagement'
      matrix_id: 3
      max_points: 30
 
   -  id: 38
-     short: C1
+     short: C1_m41
      title: 'Arbeitsplatzqualität'
      matrix_id: 3
      max_points: 90
 
   -  id: 39
-     short: C2
+     short: C2_m41
      title: 'Gerechte Verteilung der Erwerbsarbeit'
      matrix_id: 3
      max_points: 50
 
   -  id: 40
-     short: C3
+     short: C3_m41
      title: 'Förderung ökologisches Verhalten der MitarbeiterInnen'
      matrix_id: 3
      max_points: 30
 
   -  id: 41
-     short: C4
+     short: C4_m41
      title: 'Gerechte Verteilung des Einkommens'
      matrix_id: 3
      max_points: 60
 
   -  id: 42
-     short: C5
+     short: C5_m41
      title: 'Innerbetriebliche Demokratie und Transparenz'
      matrix_id: 3
      max_points: 90
 
   -  id: 43
-     short: D1
+     short: D1_m41
      title: 'Ethisches Verkaufen'
      matrix_id: 3
      max_points: 50
 
   -  id: 44
-     short: D2
+     short: D2_m41
      title: 'Solidarität mit Mitunternehmen'
      matrix_id: 3
      max_points: 70
 
   -  id: 45
-     short: D3
+     short: D3_m41
      title: 'Ökologische Gestaltung der Produkte und Dienstleistungen'
      matrix_id: 3
      max_points: 90
 
   -  id: 46
-     short: D4
+     short: D4_m41
      title: 'Soziale Gestaltung der Produkte und Dienstleistungen'
      matrix_id: 3
      max_points: 30
 
   -  id: 47
-     short: D5
+     short: D5_m41
      title: 'Erhöhung der sozialen und ökologischen Branchenstandards'
      matrix_id: 3
      max_points: 30
 
   -  id: 48
-     short: E1
+     short: E1_m41
      title: 'Gesellschaftliche Wirkung der Produkte'
      matrix_id: 3
      max_points: 90
 
   -  id: 49
-     short: E2
+     short: E2_m41
      title: 'Beitrag zum Gemeinwesen'
      matrix_id: 3
      max_points: 40
 
   -  id: 50
-     short: E3
+     short: E3_m41
      title: 'Reduktion ökologische Auswirkungen'
      matrix_id: 3
      max_points: 70
 
   -  id: 51
-     short: E4
+     short: E4_m41
      title: 'Minimierung der Gewinnausschüttung an Externe'
      matrix_id: 3
      max_points: 60
 
   -  id: 52
-     short: E5
+     short: E5_m41
      title: 'Gesellschaftliche Transparenz und Mitbestimmung'
      matrix_id: 3
      max_points: 30

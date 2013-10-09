@@ -1,9 +1,274 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
-one:
-  report_id:  
-  indicator_id: 
+A1_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: A1_m40
 
-two:
-  report: report one
-  indicator: one 
+B1_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: B1_m40
+
+C1_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: C1_m40
+
+C2_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: C2_m40
+
+C3_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: C3_m40
+
+C4_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: C4_m40
+
+C5_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: C5_m40
+
+D1_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: D1_m40
+
+D2_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: D2_m40
+
+D3_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: D3_m40
+
+D4_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: D4_m40
+
+D5_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: D5_m40
+
+E1_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: E1_m40
+
+E2_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: E2_m40
+
+E3_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: E3_m40
+
+E4_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: E4_m40
+
+E5_Modelabel_m40:
+  report: Modelabel_m40
+  indicator: E5_m40
+
+A1_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: A1_m40
+
+B1_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: B1_m40
+
+C1_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: C1_m40
+
+C2_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: C2_m40
+
+C3_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: C3_m40
+
+C4_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: C4_m40
+
+C5_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: C5_m40
+
+D1_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: D1_m40
+
+D2_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: D2_m40
+
+D3_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: D3_m40
+
+D4_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: D4_m40
+
+D5_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: D5_m40
+
+E1_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: E1_m40
+
+E2_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: E2_m40
+
+E3_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: E3_m40
+
+E4_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: E4_m40
+
+E5_Consultancy_m40:
+  report: Consultancy_m40
+  indicator: E5_m40
+
+A1_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: A1_m41
+
+B1_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: B1_m41
+
+C1_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: C1_m41
+
+C2_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: C2_m41
+
+C3_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: C3_m41
+
+C4_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: C4_m41
+
+C5_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: C5_m41
+
+D1_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: D1_m41
+
+D2_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: D2_m41
+
+D3_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: D3_m41
+
+D4_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: D4_m41
+
+D5_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: D5_m41
+
+E1_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: E1_m41
+
+E2_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: E2_m41
+
+E3_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: E3_m41
+
+E4_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: E4_m41
+
+E5_Modelabel_m41:
+  report: Modelabel_m41
+  indicator: E5_m41
+
+A1_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: A1_m41
+
+B1_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: B1_m41
+
+C1_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: C1_m41
+
+C2_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: C2_m41
+
+C3_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: C3_m41
+
+C4_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: C4_m41
+
+C5_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: C5_m41
+
+D1_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: D1_m41
+
+D2_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: D2_m41
+
+D3_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: D3_m41
+
+D4_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: D4_m41
+
+D5_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: D5_m41
+
+E1_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: E1_m41
+
+E2_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: E2_m41
+
+E3_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: E3_m41
+
+E4_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: E4_m41
+
+E5_Consultancy_m41:
+  report: Consultancy_m41
+  indicator: E5_m41
+

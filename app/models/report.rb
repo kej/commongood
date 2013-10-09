@@ -1,6 +1,8 @@
 class Report < ActiveRecord::Base
   belongs_to :company
-  has_many :chapters
+  has_many   :chapters
+
+  validates :title, presence: true
 
   def matrix
   	matrix = "no matrix specified yet"

@@ -2,7 +2,7 @@ require 'test_helper'
 
 class ChaptersControllerTest < ActionController::TestCase
   setup do
-    @chapter = chapters(:one)
+    @chapter = chapters(:A1_Modelabel_m40)
   end
 
   test "should get index" do

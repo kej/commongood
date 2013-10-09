@@ -5,6 +5,10 @@ class Indicator < ActiveRecord::Base
   has_many   :indicator_stakeholders
   has_many   :stakeholders, through: :indicator_stakeholders
 
+  validates :matrix, :short, presence: true
+  validates_associated  :matrix
+
+
   def summary
  	short  + ': ' + title.truncate(12, :omission => '')
   end
